@@ -39,7 +39,6 @@ import android.widget.Toast;
 
 import com.app.Database.SQLiteHelper;
 import com.app.Dialog.UpdateDialog;
-import com.app.SimpleDividerItemDecoration;
 import com.app.adapters.ImageViewPagerAdapterGeneralStore;
 import com.app.adapters.MyRecyclerViewAdapter;
 import com.app.jsoncall.JsonCall;
