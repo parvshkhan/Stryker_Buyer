@@ -331,7 +331,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="f03d3a8b2f62b9ac6ac04aa97864af732f0d3106">
+        sha1="403da302350d66247e93639cf2a47779dc2d9692">
         <dex dex="D:\23 jan 2017 Market Buyer\Stryker_Buyer\stryker\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5becd4763039a731bb099e25a631956869c2efff\classes.dex" />
     </item>
     <item
@@ -421,7 +421,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.3"
-        sha1="2184a3ab040f83b00328aef601cafc4d3e90f7ec">
+        sha1="d9e9369c839a74389fefba37f8f9abb78cef33eb">
         <dex dex="D:\23 jan 2017 Market Buyer\Stryker_Buyer\stryker\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_cbcc0a0b53277e4093033ad6831a739322f65b54\classes.dex" />
     </item>
     <item

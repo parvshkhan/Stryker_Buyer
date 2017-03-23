@@ -40,12 +40,12 @@
         "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_light.xml"
-    },
-    {
         "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedwithappcolor.xml",
         "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\roundedwithappcolor.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_light.xml"
     },
     {
         "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
@@ -432,12 +432,12 @@
         "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\Stryker_Buyer\\pulltorefresh\\unspecified\\res\\drawable\\indicator_bg_top.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
         "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\line_divider.xml",
         "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\line_divider.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
