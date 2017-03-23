@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal">
+
+    <RelativeLayout
+        android:id="@+id/rl_total"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lv_items"
+        android:layout_marginTop="@dimen/DP20"
+        android:layout_marginLeft="@dimen/DP50"
+        android:layout_marginRight="@dimen/DP50">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Total"
+            android:textStyle="bold"
+            android:textColor="@color/Text_color_black"
+            android:textSize="@dimen/SP12"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/txt_price"
+            android:src="@drawable/rs"
+            android:layout_centerVertical="true" />
+
+        <TextView
+            android:id="@+id/txt_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="366"
+            android:textSize="@dimen/SP12"
+            android:textStyle="bold"
+            android:layout_centerVertical="true"
+            android:textColor="@color/Text_color"
+            android:layout_alignParentRight="true" />
+
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:id="@+id/ll_delivery_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/rl_total"
+        android:layout_marginTop="@dimen/DP20"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/txt_expected"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="Expected Delivery"
+            android:textStyle="bold"
+            android:textColor="@color/Text_color_black"
+            android:textSize="@dimen/SP12" />
+
+        <TextView
+            android:id="@+id/txt_date1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/DP2"
+            android:layout_gravity="center_vertical"
+            android:text="15/03/2015"
+            android:textStyle="bold"
+            android:textColor="@color/Text_color"
+            android:layout_marginLeft="@dimen/DP20"
+            android:textSize="@dimen/SP12" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_order_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/ll_delivery_date"
+        android:layout_marginTop="@dimen/DP5"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/txt_order"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="Order Date"
+            android:textStyle="bold"
+            android:textColor="@color/Text_color_black"
+            android:textSize="@dimen/SP12" />
+
+        <TextView
+            android:id="@+id/txt_date2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/DP2"
+            android:layout_gravity="center_vertical"
+            android:text="12/03/2015"
+            android:textStyle="bold"
+            android:textColor="@color/Text_color"
+            android:layout_marginLeft="@dimen/DP20"
+            android:textSize="@dimen/SP12" />
+
+    </LinearLayout>
+
+</LinearLayout>

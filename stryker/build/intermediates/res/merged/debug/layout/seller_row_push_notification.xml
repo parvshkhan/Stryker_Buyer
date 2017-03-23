@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="@dimen/DP20">
+
+
+    <TextView
+        android:id="@+id/txt_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:singleLine="true"
+        android:text="12/01/2015"
+        android:paddingLeft="@dimen/DP20"
+        android:textColor="@color/Text_color_black"
+        android:textSize="@dimen/SP15"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/txt_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_date"
+        android:layout_marginTop="@dimen/DP5"
+        android:paddingBottom="@dimen/DP10"
+        android:paddingLeft="@dimen/DP20"
+        android:paddingRight="@dimen/DP15"
+        android:textColor="@color/Text_color_black"
+        android:text="Lorem Ipsum is simply dummy Lorem is simply dummy Lorem Ipsum "
+        android:textSize="@dimen/SP15" />
+
+
+    <RelativeLayout
+
+        android:id="@+id/rl_line"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/DP20"
+        android:layout_marginRight="@dimen/DP15"
+        android:layout_below="@+id/txt_desc"
+        android:background="@drawable/line3">
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

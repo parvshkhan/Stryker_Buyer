@@ -1,0 +1,163 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Text_color1">
+
+    <ImageView
+        android:id="@+id/img_back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_marginRight="@dimen/DP15"
+        android:layout_marginTop="@dimen/DP10"
+        android:padding="@dimen/DP10"
+        android:src="@drawable/back_arrow" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/img_back">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/img_logo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/logo" />
+
+            <TextView
+                android:id="@+id/txt_verify"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/img_logo"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/DP10"
+                android:padding="@dimen/DP5"
+                android:text="Verify your mobile number"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/SP20" />
+
+            <TextView
+                android:id="@+id/txt_msg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/rl_code"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="@dimen/DP15"
+                android:singleLine="true"
+                android:text="A Verification code has been sent to your Mobile"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/SP15" />
+
+            <RelativeLayout
+                android:id="@+id/rl_counter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/DP20"
+                android:paddingRight="@dimen/DP20">
+
+                <ProgressBar
+                    android:id="@+id/pb_counter"
+                    android:indeterminate="true"
+                    style="?android:attr/progressBarStyleInverse"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:indeterminateDrawable="@drawable/custom_progress_background"
+
+                    />
+
+                <TextView
+                    android:id="@+id/txt_counter"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="30"
+                    android:layout_centerInParent="true"
+                    android:textColor="@color/white1"
+                    android:gravity="center"
+                    android:textSize="@dimen/SP14" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_code"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:layout_marginLeft="@dimen/DP40"
+                android:layout_marginRight="@dimen/DP40">
+
+                <RelativeLayout
+                    android:id="@+id/rl_resend"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true">
+
+                    <ImageView
+                        android:id="@+id/img_resend"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerHorizontal="true"
+                        android:src="@drawable/resend" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/img_resend"
+                        android:layout_centerHorizontal="true"
+                        android:text="Resend"
+                        android:textColor="@android:color/white"
+                        android:textSize="@dimen/DP15" />
+                </RelativeLayout>
+
+                <EditText
+                    android:id="@+id/edt_verify_code"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_toLeftOf="@+id/rl_resend"
+                    android:background="@android:color/transparent"
+                    android:gravity="center_horizontal"
+                    android:hint="Enter Verification Code"
+                    android:inputType="number"
+                    android:textCursorDrawable="@color/black"
+                    android:backgroundTint="@color/black"
+                    android:paddingBottom="@dimen/DP10"
+                    android:paddingLeft="@dimen/DP20"
+                    android:paddingRight="@dimen/DP20"
+                    android:paddingTop="@dimen/DP10"
+                    android:singleLine="true"
+                    android:textColor="@color/white1"
+                    android:textColorHint="@android:color/white"
+                    android:textSize="@dimen/SP18"
+                    android:cursorVisible="true"
+                    android:textStyle="bold" />
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/edt_verify_code"
+                    android:background="@drawable/line"></RelativeLayout>
+            </RelativeLayout>
+
+            <Button
+                android:id="@+id/btn_submit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/rl_code"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="@dimen/DP50"
+                android:background="@drawable/white_button"
+                android:text="Submit"
+                android:textColor="@color/SignIn"
+                android:textSize="@dimen/SP20"
+                android:enabled="false" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

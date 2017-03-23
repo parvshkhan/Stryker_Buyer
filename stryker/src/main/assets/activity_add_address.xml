@@ -1,0 +1,147 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/bg1">
+
+    <RelativeLayout android:id="@+id/rl_header" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:background="@drawable/top_header">
+
+        <ImageView android:id="@+id/img_add1" android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true" android:paddingBottom="@dimen/DP5"
+            android:paddingLeft="@dimen/DP15" android:paddingRight="@dimen/DP5"
+            android:paddingTop="@dimen/DP5" android:src="@drawable/back_arrow" />
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_centerInParent="true" android:text="Add New Address"
+            android:textColor="@android:color/white" android:textSize="@dimen/SP20" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout android:id="@+id/rl_house_num" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:layout_below="@+id/rl_header"
+        android:layout_marginLeft="@dimen/DP30" android:layout_marginRight="@dimen/DP30"
+        android:layout_marginTop="@dimen/DP50">
+
+        <EditText
+
+            android:id="@+id/edt_house_num" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:background="@android:color/transparent"
+            android:gravity="center_vertical|left" android:hint="House Number"
+            android:textSize="@dimen/SP20" android:paddingBottom="@dimen/DP15"
+            android:paddingLeft="@dimen/DP10" android:paddingRight="@dimen/DP15"
+            android:paddingTop="@dimen/DP5" android:singleLine="true"
+            android:textColorHint="@color/Text_color_black"
+
+        />
+
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_below="@+id/edt_house_num" android:background="@drawable/line3">
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <RelativeLayout android:id="@+id/rl_street" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:layout_below="@+id/rl_house_num"
+        android:layout_marginLeft="@dimen/DP30" android:layout_marginRight="@dimen/DP30"
+        android:layout_marginTop="@dimen/DP10">
+
+        <EditText
+
+            android:id="@+id/edt_street" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:background="@android:color/transparent"
+            android:gravity="center_vertical|left" android:hint="Street"
+            android:textSize="@dimen/SP20" android:paddingBottom="@dimen/DP15"
+            android:paddingLeft="@dimen/DP10" android:paddingRight="@dimen/DP15"
+            android:paddingTop="@dimen/DP5" android:singleLine="true"
+            android:textColorHint="@color/Text_color_black"
+
+        />
+
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_below="@+id/edt_street" android:background="@drawable/line3">
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <RelativeLayout android:id="@+id/rl_city" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:layout_below="@+id/rl_street"
+        android:layout_marginLeft="@dimen/DP30" android:layout_marginRight="@dimen/DP30"
+        android:layout_marginTop="@dimen/DP10">
+
+        <EditText
+
+            android:id="@+id/edt_city" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:background="@android:color/transparent"
+            android:gravity="center_vertical|left" android:hint="City"
+            android:textSize="@dimen/SP20" android:paddingBottom="@dimen/DP15"
+            android:paddingLeft="@dimen/DP10" android:paddingRight="@dimen/DP15"
+            android:paddingTop="@dimen/DP5" android:singleLine="true"
+            android:textColorHint="@color/Text_color_black"
+
+        />
+
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_below="@+id/edt_city" android:background="@drawable/line3">
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <RelativeLayout android:id="@+id/rl_country" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:layout_below="@+id/rl_city"
+        android:layout_marginLeft="@dimen/DP30" android:layout_marginRight="@dimen/DP30"
+        android:layout_marginTop="@dimen/DP10">
+
+        <EditText
+
+            android:id="@+id/edt_country" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:background="@android:color/transparent"
+            android:gravity="center_vertical|left" android:hint="Country"
+            android:textSize="@dimen/SP20" android:paddingBottom="@dimen/DP15"
+            android:paddingLeft="@dimen/DP10" android:paddingRight="@dimen/DP15"
+            android:paddingTop="@dimen/DP5" android:singleLine="true"
+            android:textColorHint="@color/Text_color_black"
+
+        />
+
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_below="@+id/edt_country" android:background="@drawable/line3">
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <RelativeLayout android:id="@+id/rl_pin" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:layout_below="@+id/rl_country"
+        android:layout_marginLeft="@dimen/DP30" android:layout_marginRight="@dimen/DP30"
+        android:layout_marginTop="@dimen/DP10">
+
+        <EditText
+
+            android:id="@+id/edt_pin" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:background="@android:color/transparent"
+            android:gravity="center_vertical|left" android:hint="Pin" android:textSize="@dimen/SP20"
+            android:paddingBottom="@dimen/DP15" android:paddingLeft="@dimen/DP10"
+            android:paddingRight="@dimen/DP15" android:paddingTop="@dimen/DP5"
+            android:singleLine="true" android:textColorHint="@color/Text_color_black"
+
+        />
+
+        <RelativeLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_below="@+id/edt_pin" android:background="@drawable/line3">
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <Button android:id="@+id/bton_submit_address" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_below="@+id/rl_pin"
+        android:layout_centerHorizontal="true" android:layout_marginTop="@dimen/DP50"
+        android:background="@drawable/button" android:text="Save Address"
+        android:textColor="@android:color/white" android:textSize="@dimen/SP18"
+        android:clickable="true" android:textAllCaps="false" />
+
+</RelativeLayout>

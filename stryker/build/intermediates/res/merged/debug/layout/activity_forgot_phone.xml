@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:id="@+id/rel_login"
+    android:fitsSystemWindows="true">
+
+    <RelativeLayout
+        android:id="@+id/rel_header_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/DP10"
+        android:layout_above="@+id/rel_center_login">
+
+        <ImageView
+            android:id="@+id/backimage_in_signup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/back_arrow"
+            android:paddingLeft="@dimen/DP10"
+            android:paddingRight="@dimen/DP5"
+            android:clickable="true"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:visibility="gone" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:text="RESET PASSWORD"
+            android:textSize="@dimen/SP20"
+            android:textColor="@color/Signup" />
+
+        <TextView
+            android:id="@+id/signup_skipfornow_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="Skip for Now"
+            android:clickable="true"
+            android:textSize="@dimen/SP12"
+            android:textColor="@color/header_txt_color"
+            android:layout_centerVertical="true"
+            android:paddingRight="@dimen/DP15"
+            android:paddingLeft="@dimen/DP5"
+            android:visibility="gone" />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/signup_stryker_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/logo"
+        android:layout_below="@+id/rel_header_login"
+        android:layout_marginTop="@dimen/DP30"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/rel_center_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <EditText
+            android:id="@+id/signup_password_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/DP10"
+            android:layout_marginLeft="@dimen/DP35"
+            android:layout_marginRight="@dimen/DP35"
+            android:hint="Password"
+            android:inputType="textPassword"
+            android:textCursorDrawable="@color/black"
+            android:backgroundTint="@color/black"
+            android:textSize="@dimen/SP15"
+            android:textColor="@color/Signup"
+            android:textColorHint="@color/txt"
+            android:drawablePadding="@dimen/DP15"
+            android:paddingRight="@dimen/DP10"
+            android:paddingTop="@dimen/DP5"
+            android:paddingBottom="@dimen/DP5"
+            android:background="@drawable/email_box"
+            android:paddingLeft="@dimen/DP10" />
+
+        <View
+            android:id="@+id/view_email_2"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/DP3"
+            android:layout_below="@+id/signup_password_text"
+            android:layout_marginLeft="@dimen/DP35"
+            android:layout_marginRight="@dimen/DP35"
+            android:background="@drawable/line"
+            android:visibility="gone" />
+
+        <EditText
+            android:id="@+id/signup_confirmpassword_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/DP10"
+            android:layout_marginLeft="@dimen/DP35"
+            android:layout_marginRight="@dimen/DP35"
+            android:textCursorDrawable="@color/black"
+            android:backgroundTint="@color/black"
+            android:hint="Confirm Password"
+            android:inputType="text"
+            android:layout_below="@+id/signup_password_text"
+            android:textSize="@dimen/SP15"
+            android:textColor="@color/Signup"
+            android:textColorHint="@color/txt"
+            android:drawablePadding="@dimen/DP15"
+            android:paddingRight="@dimen/DP10"
+            android:paddingTop="@dimen/DP5"
+            android:paddingBottom="@dimen/DP5"
+            android:background="@drawable/email_box"
+            android:paddingLeft="@dimen/DP10" />
+
+        <View
+            android:id="@+id/view_email_3"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/DP3"
+            android:layout_below="@+id/signup_confirmpassword_text"
+            android:layout_marginLeft="@dimen/DP35"
+            android:layout_marginRight="@dimen/DP35"
+            android:background="@drawable/line"
+            android:visibility="gone" />
+
+
+        <Button
+            android:id="@+id/bton_submit_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/view_email_3"
+            android:layout_marginTop="@dimen/DP50"
+            android:background="@drawable/sign_up"
+            android:layout_marginLeft="@dimen/DP35"
+            android:layout_marginRight="@dimen/DP35"
+            android:text="SUBMIT"
+            android:padding="@dimen/DP10"
+            android:textSize="@dimen/SP18"
+            android:textAllCaps="false"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+</RelativeLayout>

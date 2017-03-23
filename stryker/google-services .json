@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1063787226047",
+    "firebase_url": "https://strkerbuyer.firebaseio.com",
+    "project_id": "strkerbuyer",
+    "storage_bucket": "strkerbuyer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063787226047:android:7a8af8bc1fe7695f",
+        "android_client_info": {
+          "package_name": "com.app.stryker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063787226047-u20rb1ve39c4e5vfhh1rd8fkvqndvfqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU1j1Aj3BPT1PbqTiKordN2W0T4qSZnWc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

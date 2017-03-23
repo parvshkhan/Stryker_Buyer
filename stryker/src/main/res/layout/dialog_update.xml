@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/cardview_light_background"
+    >
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/app_color"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            >
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@drawable/ic_info_white_24dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Update Info"
+                android:textSize="@dimen/SP20"
+                android:textColor="@color/white"
+                android:layout_marginLeft="@dimen/DP10"
+                />
+        </LinearLayout>
+    </android.support.v7.widget.Toolbar>
+    <TextView
+        android:layout_below="@id/toolbar"
+        android:id="@+id/hdr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="New MarketApp Version Available"
+        android:textSize="@dimen/SP20"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:layout_marginTop="@dimen/DP20"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_below="@id/hdr"
+        android:layout_marginTop="@dimen/DP20"
+        android:paddingLeft="@dimen/DP20"
+        android:paddingRight="@dimen/DP20"
+        android:layout_marginBottom="@dimen/DP10"
+        >
+
+
+        <Button
+            android:id="@+id/update"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Update"
+            android:layout_weight="0.5"
+            android:theme="@style/MyButton"
+            android:textColor="@color/white"
+            />
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="0.2"
+            />
+        <Button
+            android:id="@+id/cancel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="Cancel"
+            android:layout_weight="0.5"
+            android:theme="@style/MyButton"
+            android:textColor="@color/white"
+            />
+
+    </LinearLayout>
+
+
+
+
+
+</RelativeLayout>
+

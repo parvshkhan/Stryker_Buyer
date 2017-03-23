@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+
+            <ImageView
+                android:id="@+id/img_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/btn_back"
+                android:padding="@dimen/DP20"
+                android:layout_marginLeft="@dimen/DP10"
+                android:layout_marginTop="@dimen/DP10" />
+
+
+            <TextView
+                android:id="@+id/txt_desc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Create a Business Account"
+                android:textColor="@color/Signup"
+                android:textSize="@dimen/SP20"
+                android:layout_centerHorizontal="true"
+                android:gravity="center"
+                android:layout_marginTop="@dimen/DP100" />
+
+
+            <LinearLayout
+                android:id="@+id/ln_loginoption"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:paddingTop="@dimen/DP30"
+                android:paddingBottom="@dimen/DP30"
+                android:paddingLeft="@dimen/DP40"
+                android:paddingRight="@dimen/DP40"
+                android:layout_centerInParent="true"
+                android:layout_below="@+id/txt_desc">
+
+                <EditText
+                    android:id="@+id/edt_full_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/email_box"
+                    android:drawablePadding="@dimen/DP5"
+                    android:gravity="center_vertical"
+                    android:hint="Name"
+                    android:textCursorDrawable="@color/black"
+                    android:backgroundTint="@color/black"
+                    android:inputType="textEmailAddress"
+                    android:padding="@dimen/DP4"
+                    android:singleLine="true"
+                    android:textColor="@color/txt"
+                    android:textColorHint="@color/txt"
+                    android:textSize="@dimen/SP15"
+                    android:paddingLeft="@dimen/DP10" />
+
+                <EditText
+                    android:id="@+id/edt_phone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/email_box"
+                    android:drawablePadding="@dimen/DP5"
+                    android:gravity="center_vertical"
+                    android:hint="Phone No"
+                    android:textCursorDrawable="@color/black"
+                    android:backgroundTint="@color/black"
+                    android:inputType="number"
+                    android:padding="@dimen/DP4"
+                    android:singleLine="true"
+                    android:textColor="@color/txt"
+                    android:textColorHint="@color/txt"
+                    android:textSize="@dimen/SP15"
+                    android:layout_marginTop="@dimen/DP20" />
+
+                <EditText
+                    android:id="@+id/edt_phone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/email_box"
+                    android:drawablePadding="@dimen/DP5"
+                    android:gravity="center_vertical"
+                    android:hint="Mobile Number"
+                    android:inputType="number"
+                    android:digits="0123456789"
+                    android:maxLength="10"
+                    android:padding="@dimen/DP4"
+                    android:singleLine="true"
+                    android:textColor="@color/txt"
+                    android:textColorHint="@color/txt"
+                    android:textSize="@dimen/SP15"
+                    android:layout_marginTop="@dimen/DP10"
+                    android:visibility="gone" />
+
+                <EditText
+                    android:id="@+id/edt_email"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/email_box"
+                    android:drawablePadding="@dimen/DP5"
+                    android:gravity="center_vertical"
+                    android:textCursorDrawable="@color/black"
+                    android:backgroundTint="@color/black"
+                    android:hint="Email"
+                    android:inputType="textEmailAddress"
+                    android:padding="@dimen/DP4"
+                    android:singleLine="true"
+                    android:textColor="@color/txt"
+                    android:textColorHint="@color/txt"
+                    android:textSize="@dimen/SP15"
+                    android:layout_marginTop="@dimen/DP10" />
+
+                <EditText
+                    android:id="@+id/edt_business_type"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/email_box"
+                    android:drawablePadding="@dimen/DP5"
+                    android:gravity="center_vertical"
+                    android:hint="Business Type"
+                    android:textCursorDrawable="@color/black"
+                    android:backgroundTint="@color/black"
+                    android:padding="@dimen/DP4"
+                    android:singleLine="true"
+                    android:textColor="@color/txt"
+                    android:textColorHint="@color/txt"
+                    android:textSize="@dimen/SP15"
+                    android:layout_marginTop="@dimen/DP10" />
+
+
+                <EditText
+                    android:id="@+id/edt_city"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/email_box"
+                    android:drawablePadding="@dimen/DP5"
+                    android:gravity="center_vertical"
+                    android:hint="City"
+                    android:textCursorDrawable="@color/black"
+                    android:backgroundTint="@color/black"
+                    android:padding="@dimen/DP4"
+                    android:singleLine="true"
+                    android:textColor="@color/txt"
+                    android:textColorHint="@color/txt"
+                    android:textSize="@dimen/SP15"
+                    android:layout_marginTop="@dimen/DP10" />
+
+                <EditText
+                    android:id="@+id/edt_reseller_code"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/email_box"
+                    android:drawablePadding="@dimen/DP5"
+                    android:gravity="center_vertical"
+                    android:hint="Reseller Code(Optional)"
+                    android:textCursorDrawable="@color/black"
+                    android:backgroundTint="@color/black"
+                    android:padding="@dimen/DP4"
+                    android:singleLine="true"
+                    android:textColor="@color/txt"
+                    android:textColorHint="@color/txt"
+                    android:textSize="@dimen/SP15"
+                    android:layout_marginTop="@dimen/DP10" />
+
+
+                <TextView
+                    android:id="@+id/txt_submit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="SUBMIT"
+                    android:textColor="@color/white"
+                    android:background="@drawable/sign_up"
+                    android:layout_above="@+id/txt_desc"
+                    android:gravity="center"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginBottom="@dimen/DP10"
+                    android:layout_marginTop="@dimen/DP8" />
+
+                <TextView
+                    android:id="@+id/txt_desc"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/DP2"
+                    android:text="@string/description"
+                    android:textSize="@dimen/SP13"
+                    android:textColor="@color/Signup" />
+
+                <TextView
+                    android:id="@+id/txt_termscondition"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Terms and Condition of Business Registration"
+                    android:textSize="@dimen/SP13"
+                    android:textColor="@color/holo_blue" />
+
+            </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

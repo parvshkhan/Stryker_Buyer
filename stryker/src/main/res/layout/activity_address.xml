@@ -1,0 +1,97 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_background_color">
+
+    <RelativeLayout
+        android:id="@+id/rl_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/top_header">
+
+        <ImageView
+            android:id="@+id/img_add1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:paddingBottom="@dimen/DP10"
+            android:paddingLeft="@dimen/DP15"
+            android:paddingRight="@dimen/DP5"
+            android:paddingTop="@dimen/DP10"
+            android:src="@drawable/back_arrow" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Checkout"
+            android:layout_toRightOf="@+id/img_add1"
+            android:layout_centerVertical="true"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/SP20" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/txt_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_header"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/DP7"
+        android:padding="@dimen/DP5"
+        android:text="Select Address"
+        android:textColor="@color/Text_color"
+        android:textSize="@dimen/SP18" />
+
+    <RelativeLayout
+        android:id="@+id/rl_footer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/base_black">
+
+        <TextView
+            android:id="@+id/txt_new_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:padding="@dimen/DP7"
+            android:layout_marginLeft="@dimen/DP10"
+            android:layout_alignParentLeft="true"
+            android:text="Add New Address"
+            android:textColor="@color/Text_color"
+            android:textSize="@dimen/SP15"
+            android:clickable="true" />
+
+        <Button
+            android:id="@+id/bton_place_your_order"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/DP5"
+            android:layout_alignParentRight="true"
+            android:background="@android:color/transparent"
+            android:text="Place your Order"
+            android:drawablePadding="@dimen/DP5"
+            android:drawableRight="@drawable/right_a"
+            android:textColor="@color/orange1"
+            android:textSize="@dimen/SP15"
+            android:gravity="right|center_vertical"
+            android:layout_centerVertical="true"
+            android:textAllCaps="false" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/lv_store_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/rl_footer"
+        android:layout_below="@+id/txt_address"
+        android:layout_marginTop="@dimen/DP7"
+        android:fadingEdge="none"
+        android:listSelector="@android:color/transparent"
+        android:visibility="visible"
+        android:dividerHeight="@dimen/DP2"
+        android:overScrollMode="never"
+        android:divider="@drawable/line3"></ListView>
+
+</RelativeLayout>

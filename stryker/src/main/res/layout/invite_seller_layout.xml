@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@android:color/transparent">
+
+
+    <LinearLayout
+        android:id="@+id/ln_main"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:background="@drawable/roundedwithborder">
+
+
+        <EditText
+            android:id="@+id/edt_name"
+            android:layout_width="@dimen/DP180"
+            android:layout_height="wrap_content"
+            android:background="@drawable/roundedwithborder_gray"
+            android:layout_marginLeft="@dimen/DP15"
+            android:layout_marginRight="@dimen/DP15"
+
+            android:padding="@dimen/DP5"
+            android:hint="Enter Name"
+            android:textColor="@color/black"
+            android:textSize="@dimen/SP12"
+            android:singleLine="true"
+            android:gravity="left|center_vertical"
+            android:layout_marginTop="@dimen/DP30" />
+
+
+        <EditText
+            android:id="@+id/edt_phone_number"
+            android:layout_width="@dimen/DP180"
+            android:layout_height="wrap_content"
+            android:background="@drawable/roundedwithborder_gray"
+            android:layout_marginLeft="@dimen/DP15"
+            android:layout_marginRight="@dimen/DP15"
+            android:padding="@dimen/DP5"
+            android:hint="Enter Phone no"
+            android:textColor="@color/black"
+            android:textSize="@dimen/SP12"
+            android:singleLine="true"
+            android:gravity="left|center_vertical"
+            android:layout_marginTop="@dimen/DP5" />
+
+
+        <EditText
+            android:id="@+id/edt_city"
+            android:layout_width="@dimen/DP180"
+            android:layout_height="wrap_content"
+            android:background="@drawable/roundedwithborder_gray"
+            android:layout_marginLeft="@dimen/DP15"
+            android:layout_marginRight="@dimen/DP15"
+            android:padding="@dimen/DP5"
+            android:hint="Enter City"
+            android:textColor="@color/black"
+            android:textSize="@dimen/SP12"
+            android:singleLine="true"
+            android:gravity="left|center_vertical"
+            android:layout_marginTop="@dimen/DP5" />
+
+
+        <TextView
+            android:id="@+id/txt_submit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/app_color"
+            android:text="Submit"
+            android:textColor="@color/white"
+            android:textSize="@dimen/SP12"
+            android:paddingLeft="@dimen/DP10"
+            android:paddingRight="@dimen/DP10"
+            android:paddingTop="@dimen/DP5"
+            android:paddingBottom="@dimen/DP5"
+            android:layout_marginTop="@dimen/DP8"
+            android:layout_marginBottom="@dimen/DP10" />
+
+
+    </LinearLayout>
+
+
+    <ImageView
+        android:id="@+id/img_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/delete"
+        android:layout_alignRight="@+id/ln_main"
+        android:layout_alignTop="@+id/ln_main"
+        android:paddingRight="@dimen/DP3"
+        android:paddingTop="@dimen/DP3" />
+</RelativeLayout>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    >
+
+    <!--<de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/profile_image"
+        android:layout_width="76dp"
+        android:layout_height="76dp"
+        android:src="@drawable/profile"
+        app:border_color="#FF000000"
+        android:layout_marginLeft="24dp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="24dp" />-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="140dp"
+        android:background="@drawable/navigationdrawerheadergradient"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:id="@+id/marketIcon"
+            android:layout_width="wrap_content"
+            android:layout_height="78dp"
+            android:src="@drawable/market_logo"
+            android:layout_marginLeft="@dimen/DP30" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="MarketApp"
+            android:textSize="20sp"
+            android:gravity="center_vertical"
+            android:textColor="@color/black"
+            android:paddingBottom="4dp"
+            android:id="@+id/markettext"
+            android:layout_toRightOf="@id/marketIcon"
+            android:layout_marginLeft="5dp"
+
+
+            />
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/market01"
+            android:layout_marginLeft="@dimen/DP20"
+            android:layout_marginTop="@dimen/DP5" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="Market"
+            android:textColor="@color/red"
+            android:gravity="center"
+            android:textSize="@dimen/SP20"
+            android:textStyle="bold"
+            android:layout_marginLeft="@dimen/DP15" />
+    </LinearLayout>
+
+
+    <View
+        android:layout_marginTop="@dimen/DP5"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#c0c0c0" />
+
+
+</LinearLayout>

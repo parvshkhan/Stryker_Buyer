@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!--
+    <RelativeLayout
+        android:id="@+id/rl_store_pics"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/DP180" >
+
+        <ViewFlipper
+            android:id="@+id/product_view_flipper"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            
+                 <ImageView
+                android:id="@+id/img_store"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/place_holder" />
+           
+        </ViewFlipper>
+
+        <ImageView
+            android:id="@+id/img_next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="@dimen/DP15"
+            android:src="@drawable/right_a" />
+
+        <ImageView
+            android:id="@+id/img_prev"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:padding="@dimen/DP15"
+            android:src="@drawable/lest_a" />
+
+        <RelativeLayout
+            android:id="@+id/rl_hot"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone" >
+
+            <ImageView
+                android:id="@+id/img_overlay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:src="@drawable/overlay_hot" />
+
+            <TextView
+                android:id="@+id/txt_hot_price1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:drawableLeft="@drawable/rupess_hot"
+                android:text="12"
+                android:paddingLeft="@dimen/DP20"
+                android:paddingBottom="@dimen/DP10"
+                android:drawablePadding="@dimen/DP5"
+                android:textColor="#ffffff"
+                android:textSize="@dimen/SP13" />
+
+            <TextView
+                android:id="@+id/txt_hot_p_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Super Comba"
+                android:paddingLeft="@dimen/DP20"
+                android:textColor="#ffffff"
+                android:layout_above="@+id/txt_hot_price1"
+                android:textSize="@dimen/SP13" />
+            
+            <ImageView
+                android:id="@+id/img_add_hot"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"  
+                android:layout_alignParentBottom="true"
+                android:layout_marginRight="@dimen/DP20"
+                android:paddingBottom="@dimen/DP10"
+                android:layout_alignParentRight="true"             
+                android:src="@drawable/add_hot" />
+        </RelativeLayout>
+    </RelativeLayout>
+    -->
+
+    <TextView
+        android:id="@+id/txt_header_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_store_pics"
+        android:background="@drawable/cato"
+        android:gravity="center_vertical|left"
+        android:paddingLeft="@dimen/DP20"
+        android:text="Toothpaste"
+        android:textColor="@color/Text_color"
+        android:textSize="@dimen/SP12"
+        android:visibility="gone" />
+
+    <RelativeLayout
+        android:id="@+id/ll_base"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/base_black">
+
+        <View
+            android:id="@+id/lline"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_alignParentTop="true"
+            android:background="#000"
+            android:visibility="gone" />
+
+        <RelativeLayout
+            android:id="@+id/rl_cart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="@dimen/DP5"
+            android:padding="@dimen/DP5">
+
+            <ImageView
+                android:id="@+id/img_cart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:src="@drawable/cart_btm" />
+
+            <TextView
+                android:id="@+id/txt_cart_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/DP20"
+                android:layout_marginTop="@dimen/DP5"
+                android:text=""
+                android:textColor="@color/orange1"
+                android:textSize="@dimen/SP7"
+                android:textStyle="bold" />
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/txt_total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/DP20"
+            android:text="Total Rs"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/SP18"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/txt_rs"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/DP10"
+            android:layout_toRightOf="@+id/txt_total"
+            android:text="Rs"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/SP18"
+            android:visibility="gone" />
+
+        <View
+            android:id="@+id/lline"
+            android:layout_width="1dp"
+            android:layout_height="@dimen/DP40"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/rl_cart"
+            android:background="#000" />
+
+        <TextView
+            android:id="@+id/txt_price_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/DP5"
+            android:layout_toRightOf="@+id/rl_cart"
+            android:drawableLeft="@drawable/rs"
+            android:text="120"
+            android:textColor="@color/orange1"
+            android:textSize="@dimen/SP15" />
+
+        <TextView
+            android:id="@+id/txt_checkout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:clickable="true"
+            android:drawablePadding="@dimen/DP5"
+            android:drawableRight="@drawable/right_a"
+            android:gravity="center_vertical"
+            android:padding="@dimen/DP5"
+            android:text="Proceed"
+            android:textColor="@color/orange1"
+            android:textSize="@dimen/SP18" />
+
+        <ImageView
+            android:id="@+id/img_chk_arrow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="@dimen/DP10"
+            android:src="@drawable/right_white"
+            android:visibility="gone" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/lv_store_details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/ll_base"
+        android:layout_alignParentTop="true"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0dp"
+        android:fadeScrollbars="false"
+        android:fadingEdge="none"
+        android:overScrollMode="never"
+        android:listSelector="@android:color/transparent"></ListView>
+
+    <RelativeLayout
+        android:id="@+id/rl_nodata"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white1"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/txt_nodata"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sorry for inconvenience !\n\nProducts not available right now, please visit after some time."
+            android:textSize="@dimen/SP20"
+            android:textColor="@color/black1"
+            android:padding="@dimen/DP20"
+            android:layout_centerInParent="true" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

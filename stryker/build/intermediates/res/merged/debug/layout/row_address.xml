@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:paddingLeft="@dimen/DP7"
+    android:paddingRight="@dimen/DP7"
+    android:paddingTop="@dimen/DP10"
+    android:paddingBottom="@dimen/DP10"
+
+    android:descendantFocusability="blocksDescendants">
+
+    <TextView
+        android:id="@+id/txt_address_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:padding="@dimen/DP3"
+        android:text=""
+        android:textColor="@color/Text_color_black"
+        android:textSize="@dimen/SP15"
+        android:visibility="invisible" />
+
+    <LinearLayout
+        android:id="@+id/ln_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/DP10"
+        android:layout_marginRight="@dimen/DP20"
+        android:layout_toLeftOf="@+id/img_select_address"
+        android:layout_toRightOf="@+id/txt_address_number"
+        android:orientation="vertical"
+        android:paddingTop="@dimen/DP3">
+
+        <TextView
+            android:id="@+id/txt_address_line"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="91 Western Road"
+            android:textColor="@color/Text_color_black"
+            android:textSize="@dimen/SP15" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/img_delete_address"
+        android:layout_width="@dimen/DP20"
+        android:layout_height="@dimen/DP20"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+
+        android:layout_marginRight="@dimen/DP7"
+        android:src="@drawable/delete_p" />
+
+    <ImageView
+        android:id="@+id/img_select_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/DP20"
+        android:layout_toLeftOf="@+id/img_delete_address"
+        android:src="@drawable/off" />
+
+</RelativeLayout>

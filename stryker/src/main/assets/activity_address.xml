@@ -1,0 +1,49 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/bg1">
+
+    <RelativeLayout android:id="@+id/rl_header" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:background="@drawable/top_header">
+
+        <ImageView android:id="@+id/img_add1" android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true" android:paddingBottom="@dimen/DP10"
+            android:paddingLeft="@dimen/DP15" android:paddingRight="@dimen/DP5"
+            android:paddingTop="@dimen/DP10" android:src="@drawable/back_arrow" />
+
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+            android:layout_centerInParent="true" android:text="Cart"
+            android:textColor="@android:color/white" android:textSize="@dimen/SP20" />
+    </RelativeLayout>
+
+    <TextView android:id="@+id/txt_address" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_below="@+id/rl_header"
+        android:layout_centerHorizontal="true" android:layout_marginTop="@dimen/DP7"
+        android:padding="@dimen/DP5" android:text="Select Address"
+        android:textColor="@color/Text_color" android:textSize="@dimen/SP18" />
+
+    <RelativeLayout android:id="@+id/rl_footer" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/DP10">
+
+        <TextView android:id="@+id/txt_new_address" android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/DP10" android:padding="@dimen/DP5"
+            android:text="Add New Address" android:textColor="@color/Text_color"
+            android:textSize="@dimen/SP18" android:clickable="true" />
+
+        <Button android:id="@+id/bton_place_your_order" android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:layout_below="@+id/txt_new_address"
+            android:layout_centerHorizontal="true" android:layout_marginTop="@dimen/DP7"
+            android:background="@drawable/button" android:text="Place your Order"
+            android:textColor="@android:color/white" android:textSize="@dimen/SP15"
+            android:gravity="center" android:textAllCaps="false" />
+    </RelativeLayout>
+
+    <ListView android:id="@+id/lv_store_details" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:layout_above="@+id/rl_footer"
+        android:layout_below="@+id/txt_address" android:layout_marginTop="@dimen/DP7"
+        android:fadingEdge="none" android:visibility="visible" android:dividerHeight="@dimen/DP2"
+        android:overScrollMode="never" android:divider="@drawable/line3"></ListView>
+
+</RelativeLayout>

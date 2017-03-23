@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+
+    android:fitsSystemWindows="true">
+
+    <RelativeLayout
+        android:id="@+id/activity_inviteand_earn"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black_trans"
+        tools:context="com.app.stryker.InviteandEarn"
+
+        >
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/app_color">
+
+            <ImageView
+                android:id="@+id/back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/back" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="INVITE AND EARN"
+                android:textSize="@dimen/SP15"
+                android:textColor="@color/white"
+                android:gravity="center"
+                android:foregroundGravity="center"
+                android:paddingRight="@dimen/DP40" />
+
+        </android.support.v7.widget.Toolbar>
+
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/card_view1"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/DP5"
+            android:layout_marginRight="@dimen/DP5"
+            card_view:cardCornerRadius="2dp"
+            card_view:contentPadding="10dp"
+            android:layout_below="@id/toolbar"
+            android:layout_marginTop="@dimen/DP5">
+
+            <RelativeLayout
+                android:id="@+id/rl1"
+                android:layout_width="match_parent"
+                android:layout_height="517dp"
+                android:layout_marginTop="@dimen/DP20">
+
+
+                <EditText
+                    android:id="@+id/assctUser"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Associate / User"
+                    android:textCursorDrawable="@color/black"
+                    android:backgroundTint="@color/black"
+                    android:paddingLeft="@dimen/DP5" />
+
+                <EditText
+                    android:id="@+id/pass1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Password"
+                    android:layout_below="@id/assctUser"
+                    android:textCursorDrawable="@color/black"
+                    android:backgroundTint="@color/black"
+                    android:layout_marginTop="@dimen/DP10"
+                    android:paddingLeft="@dimen/DP5"
+                    android:inputType="textPassword" />
+
+                <Button
+                    android:id="@+id/btSubmitAssciate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/DP40"
+                    android:text="Submit"
+                    android:layout_below="@id/pass1"
+                    android:layout_centerHorizontal="true"
+                    android:theme="@style/MyButton"
+                    android:textColor="@color/white" />
+
+                <LinearLayout
+                    android:id="@+id/l1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/btSubmitAssciate"
+                    android:orientation="horizontal"
+                    android:weightSum="3"
+                    android:layout_marginTop="@dimen/DP40">
+
+                    <View
+                        android:layout_weight="1"
+                        android:layout_width="0dp"
+                        android:layout_height="3dp"
+                        android:background="@color/black"
+                        android:layout_marginTop="@dimen/DP6" />
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:text="OR"
+                        android:layout_weight="1"
+                        android:layout_marginLeft="@dimen/DP5"
+                        android:gravity="center" />
+
+                    <View
+                        android:layout_width="0dp"
+                        android:layout_height="3dp"
+                        android:layout_weight="1"
+                        android:background="@color/black"
+                        android:layout_marginTop="@dimen/DP6" />
+
+                </LinearLayout>
+
+                <EditText
+                    android:id="@+id/name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Name/New User"
+                    android:layout_below="@id/l1"
+                    android:layout_marginTop="@dimen/DP40"
+                    android:textCursorDrawable="@color/black"
+                    android:backgroundTint="@color/black"
+                    android:paddingLeft="@dimen/DP5" />
+
+
+                <Button
+                    android:id="@+id/shareContacts"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Share Your Contacts"
+                    android:gravity="center"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/SP15"
+                    android:theme="@style/MyButton"
+                    android:drawableLeft="@drawable/address"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginBottom="@dimen/SP2" />
+
+                <EditText
+                    android:id="@+id/edmobile"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Phone"
+                    android:textCursorDrawable="@color/black"
+                    android:backgroundTint="@color/black"
+                    android:paddingLeft="@dimen/DP5"
+                    android:inputType="number"
+                    android:layout_below="@+id/name"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+
+
+                <Button
+                    android:id="@+id/btSubmitNewUser"
+                    android:layout_width="wrap_content"
+                    android:layout_height="@dimen/DP40"
+                    android:text="Submit"
+                    android:theme="@style/MyButton"
+                    android:textColor="@color/white"
+                    android:layout_centerHorizontal="true"
+                    android:layout_below="@id/edmobile"
+
+                    />
+            </RelativeLayout>
+        </android.support.v7.widget.CardView>
+
+
+    </RelativeLayout>
+</ScrollView>

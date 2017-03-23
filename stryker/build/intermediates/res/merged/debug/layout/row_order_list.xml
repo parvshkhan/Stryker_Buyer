@@ -1,0 +1,102 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_vertical"
+    android:paddingLeft="@dimen/DP10"
+    android:paddingRight="@dimen/DP10"
+    android:paddingTop="@dimen/DP15">
+
+    <RelativeLayout
+        android:id="@+id/rl_left"
+        android:layout_width="@dimen/DP50"
+        android:layout_height="@dimen/DP50"
+        android:layout_alignParentLeft="true">
+
+        <TextView
+            android:id="@+id/txt_initname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@drawable/new_placeholder"
+            android:gravity="center"
+            android:text="P"
+            android:textColor="@color/white" />
+
+        <ImageView
+            android:id="@+id/img_order"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true"
+            android:src="@drawable/new_placeholder"
+            android:visibility="visible" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true">
+
+        <ImageView
+            android:id="@+id/img_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@drawable/cancel_order" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_mid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@+id/rl_right"
+        android:layout_toRightOf="@+id/rl_left"
+        android:gravity="center_vertical">
+
+        <LinearLayout
+            android:id="@+id/ll_mid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="@dimen/DP10"
+            android:paddingRight="@dimen/DP10">
+
+            <TextView
+                android:id="@+id/txt_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:text="Store anme"
+                android:textColor="@color/orange1"
+                android:textSize="@dimen/SP14" />
+
+            <TextView
+                android:id="@+id/txt_order_id"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:text="Order ID"
+                android:textColor="@color/black1"
+                android:textSize="@dimen/SP12" />
+
+            <TextView
+                android:id="@+id/txt_time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:text="Time"
+                android:textColor="@color/orange1"
+                android:textSize="@dimen/SP12" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/line_view"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/DP2"
+        android:layout_below="@+id/rl_mid"
+        android:layout_marginLeft="@dimen/DP60"
+        android:layout_marginTop="@dimen/DP10"
+        android:background="@drawable/line" />
+
+</RelativeLayout>

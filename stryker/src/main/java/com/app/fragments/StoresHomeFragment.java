@@ -1,0 +1,549 @@
+package com.app.fragments;
+
+import android.app.Activity;
+import android.app.AlertDialog;
+import android.app.ProgressDialog;
+import android.content.Context;
+import android.content.DialogInterface;
+import android.content.Intent;
+import android.os.AsyncTask;
+import android.os.Bundle;
+import android.support.v4.widget.SwipeRefreshLayout;
+import android.text.Html;
+import android.util.Log;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.view.ViewGroup;
+import android.widget.AdapterView;
+import android.widget.AdapterView.OnItemClickListener;
+import android.widget.ImageView;
+import android.widget.ListView;
+import android.widget.RelativeLayout;
+import android.widget.TextView;
+
+import com.app.adapters.StoreHomeListAdapter;
+import com.app.gpstracker.GPSTracker;
+import com.app.jsoncall.JsonCall;
+import com.app.listeners.DeleteStoreListener;
+import com.app.model.ServiceResponse;
+import com.app.model.StoreHomeListModel;
+import com.app.model.UserStore;
+import com.app.stryker.Generalstore_list_new;
+import com.app.stryker.R;
+import com.app.utill.AppUtil;
+import com.app.utill.SessionUtils;
+import com.google.gson.internal.LinkedTreeMap;
+import com.squareup.picasso.Clear;
+import com.squareup.picasso.Picasso;
+
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
+import java.util.ArrayList;
+
+public class StoresHomeFragment extends android.support.v4.app.Fragment implements DeleteStoreListener, SwipeRefreshLayout.OnRefreshListener {
+
+    Context context;
+
+    StoreHomeListAdapter adapter;
+    ListView listStore;
+    ArrayList<StoreHomeListModel> arlistStoreHome = new ArrayList<StoreHomeListModel>();
+    //ArrayList<ModelListHomeItem> listfollowing = new ArrayList<ModelListHomeItem>();
+    private Double mLat = 0.0, mLong = 0.0;
+    ProgressDialog dialogLoader;
+    SwipeRefreshLayout swipeLayout;
+    ImageView imgAddStore;
+    SwipeRefreshLayout swipeRefreshLayout;
+    boolean check = true;
+
+    @Override
+    public void onRefresh() {
+        check = false;
+        swipeRefreshLayout.setRefreshing(true);
+        Clear.clearCache(Picasso.with(getActivity()));
+        refres();
+    }
+
+    private void refres() {
+
+        HomeDataTask task = new HomeDataTask();
+        task.execute(new String[]{AppUtil.getUserId(context), AppUtil.getDeviceId(context)});
+
+
+
+    }
+    //String storeId = "";
+
+
+    public interface onSomeEventListener {
+        public void someEvent(String s);
+    }
+
+    onSomeEventListener someEventListener;
+
+
+    public void onAttach(Activity activity) {
+        super.onAttach(activity);
+        try {
+            someEventListener = (onSomeEventListener) activity;
+        } catch (ClassCastException e) {
+            throw new ClassCastException(activity.toString() + " must implement onSomeEventListener");
+        }
+    }
+
+
+    public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                             Bundle savedInstanceState) {
+        // TODO Auto-generated method stub
+        View rootview = inflater.inflate(R.layout.fragment_pager_store_home,
+                container, false);
+
+        return rootview;
+    }
+
+
+    public void onViewCreated(View view, Bundle savedInstanceState) {
+        // TODO Auto-generated method stub
+        super.onViewCreated(view, savedInstanceState);
+        context = getActivity();
+
+        GPSTracker mGPS = new GPSTracker(context);
+        if (mGPS.canGetLocation) {
+            mLat = mGPS.getLatitude();
+            mLong = mGPS.getLongitude();
+        }
+//		if (jar.length() > 0) {
+//			JSONObject j = jar.getJSONObject(0);
+//			imageUrl = j.getString("ImageUrl");
+//			arlistStoreHome.add(new StoreHomeListModel(storeId, imageUrl, storeName,seller_id,sellerChat_id));
+//
+//
+//		}else{
+//			arlistStoreHome.add(new StoreHomeListModel(storeId, "", storeName,seller_id,sellerChat_id));
+//
+//		}
+        init();
+        //setData();
+        ServiceResponse serviceResponse = AppUtil.getGsonInstance().fromJson(SessionUtils.getCitiesForSearch(context, SessionUtils.SESSION_HOMEDATA), ServiceResponse.class);
+        String storeImageURL = "";
+        if (serviceResponse != null && serviceResponse.commandResult != null && serviceResponse.commandResult.data.UserStores.size() > 0) {
+
+            String refereshval = AppUtil.getrefreshValue(context);
+
+            if (serviceResponse != null && serviceResponse.commandResult != null && serviceResponse.commandResult.data.UserStores.size() > 0 && refereshval != null && (refereshval.equalsIgnoreCase("no") || (refereshval.equalsIgnoreCase("")))) {
+                arlistStoreHome.clear();
+                if (serviceResponse.commandResult.success == 1) {
+
+                    for (UserStore userStore : serviceResponse.commandResult.data.UserStores) {
+                        String storeImage = "";
+                        if (userStore.StoreInfo.Seller != null && userStore.StoreInfo.Seller != "") {
+                            if (userStore.StoreInfo.StoreGallery.size() > 0) {
+                                storeImage = userStore.StoreInfo.StoreGallery.get(0).ImageUrl;
+                            }
+                            arlistStoreHome.add(new StoreHomeListModel(String.valueOf(userStore.StoreInfo.Id), storeImage, userStore.StoreInfo.Name,
+                                    String.valueOf(((LinkedTreeMap) userStore.StoreInfo.Seller).get("Id")),
+                                    String.valueOf(((LinkedTreeMap) userStore.StoreInfo.Seller).get("ChatID"))
+                            ));
+                        }
+                    }
+                }
+                adapter = new StoreHomeListAdapter(context,
+                        R.layout.row_store_list, arlistStoreHome, StoresHomeFragment.this);
+                listStore.setAdapter(adapter);
+                //adapter.notifyDataSetChanged();;
+                Log.e("--------->", "data is saved locally");
+            } else {
+                AppUtil.setrefreshValue(context, "no");
+
+                if (AppUtil.isNetworkAvailable(context)) {
+                    dialogLoader = ProgressDialog.show(context, "", "Please wait...");
+                    HomeDataTask task = new HomeDataTask();
+                    task.execute(new String[]{AppUtil.getUserId(context), AppUtil.getDeviceId(context)});
+                } else {
+                    AppUtil.showCustomToast(context,
+                            "please check your internet connection");
+
+                }
+            }
+
+        } else {
+
+            AppUtil.setrefreshValue(context, "no");
+
+            if (AppUtil.isNetworkAvailable(context)) {
+                dialogLoader = ProgressDialog.show(context, "", "Please wait...");
+                HomeDataTask task = new HomeDataTask();
+                task.execute(new String[]{AppUtil.getUserId(context), AppUtil.getDeviceId(context)});
+            } else {
+                AppUtil.showCustomToast(context,
+                        "please check your internet connection");
+
+            }
+
+        }
+    }
+
+    private void init() {
+        //pb=(com.github.rahatarmanahmed.cpv.CircularProgressView) getView().findViewById(R.id.progressBar1);
+        listStore = (ListView) getView().findViewById(R.id.list_home_store);
+        //swipeLayout = (SwipeRefreshLayout) getView().findViewById(R.id.swipe_container);
+        imgAddStore = (ImageView) getView().findViewById(R.id.img_add2);
+        swipeRefreshLayout = (SwipeRefreshLayout) getActivity().findViewById(R.id.swipe);
+        swipeRefreshLayout.setOnRefreshListener(this);
+        listStore.setOnItemClickListener(new OnItemClickListener() {
+
+
+            public void onItemClick(AdapterView<?> parent, View view,
+                                    int position, long id) {
+
+                // TODO Auto-generated method stub
+                /**perform the action on click of store list*/
+
+            }
+        });
+        imgAddStore.setOnClickListener(new OnClickListener() {
+
+
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                Intent i = new Intent(context, Generalstore_list_new.class);
+                startActivityForResult(i, 10);
+            }
+        });
+        /*swipeLayout.setOnRefreshListener(this);
+		 swipeLayout.setColorScheme(android.R.color.holo_blue_bright,
+	             android.R.color.holo_green_light,
+	             android.R.color.holo_orange_light,
+	             android.R.color.holo_red_light);*/
+
+
+    }
+
+
+    public void setData() throws JSONException {
+        arlistStoreHome.clear();
+	/*
+		adapter = new StoreHomeListAdapter(context ,
+					R.layout.fragment_pager_store_home, arlistStoreHome);
+		listStore.setAdapter(adapter);*/
+
+    }
+
+
+    public void onDeleteStoreClick(int position, String store_id) {
+        // TODO Auto-generated method stub
+        final int posi = position;
+        final String storeId = store_id;
+        AlertDialog.Builder builder = new AlertDialog.Builder(context);
+        builder.setMessage("Are you sure, want to remove Store?")
+                .setCancelable(false)
+                .setPositiveButton("Done", new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int id) {
+                        /** call remove store task */
+                        if (AppUtil.isNetworkAvailable(context)) {
+                            dialogLoader = ProgressDialog.show(context, "", "please wait..");
+                            RemoveStoreTask taskRemoveStore = new RemoveStoreTask(posi);
+                            taskRemoveStore.execute(new String[]{AppUtil.getUserId(context), storeId});
+                        } else {
+                            AppUtil.showCustomToast(context, "please check your internet");
+                        }
+                    }
+                })
+                .setNegativeButton("Cancel", new DialogInterface.OnClickListener() {
+                    public void onClick(DialogInterface dialog, int id) {
+                        dialog.cancel();
+                    }
+                });
+        AlertDialog alert = builder.create();
+        alert.show();
+
+
+    }
+
+
+    public void onActivityResult(int requestCode, int resultCode, Intent data) {
+        // TODO Auto-generated method stub
+        super.onActivityResult(requestCode, resultCode, data);
+
+        if (requestCode == 10 && resultCode == 512) {
+            String dataList = data.getStringExtra("data");
+            /** update data here*/
+            try {
+                JSONArray ja = new JSONArray(dataList);
+            } catch (JSONException e) {
+                // TODO Auto-generated catch block
+                e.printStackTrace();
+            }
+        }
+    }
+
+    /**
+     * home data asyntask
+     */
+    private class  HomeDataTask extends AsyncTask<String, Void, String> {
+
+        protected void onPreExecute() {
+            super.onPreExecute();
+        }
+
+        protected String doInBackground(String... urls) {
+            String response = "";
+            try {
+                JsonCall obj = new JsonCall();
+                response = obj.homeData(urls[0], urls[1],
+                        context.getResources().getString(R.string.home_data_url));
+                Log.e("Home Data RRESPONSE", "" + response);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+            return response;
+        }
+
+        protected void onPostExecute(String result) {
+            JSONObject jObject;
+            try {
+                if (result != null) {
+
+
+                    // Convert to Service Response for further Parsing
+                    ServiceResponse serviceResponse = AppUtil.getGsonInstance().fromJson(result, ServiceResponse.class);
+                    // Save to Session
+                    SessionUtils.setCitiesForSearch(context, result, SessionUtils.SESSION_HOMEDATA);
+
+                    arlistStoreHome.clear();
+
+                    if (serviceResponse.commandResult.success == 1) {
+
+                        for (UserStore userStore : serviceResponse.commandResult.data.UserStores) {
+                            String storeImage = "";
+                            if (userStore.StoreInfo.Seller != null && userStore.StoreInfo.Seller != "") {
+                                /*if (userStore.StoreInfo.StoreGallery.size() > 0) {
+                                    storeImage = userStore.StoreInfo.StoreGallery.get(0).ImageUrl;
+                                }*/
+                                for(int i=0;i<userStore.StoreInfo.StoreGallery.size();i++)
+                                {
+
+                                    storeImage =  userStore.StoreInfo.StoreGallery.get(i).ImageUrl;
+                                    if(storeImage.equalsIgnoreCase(""))
+                                        continue;
+                                    else
+                                        break;
+
+                                }
+
+
+                                arlistStoreHome.add(new StoreHomeListModel(String.valueOf(userStore.StoreInfo.Id), storeImage, userStore.StoreInfo.Name,
+                                        String.valueOf(((LinkedTreeMap) userStore.StoreInfo.Seller).get("Id")),
+                                        String.valueOf(((LinkedTreeMap) userStore.StoreInfo.Seller).get("ChatID"))
+                                ));
+                            }
+                        }
+                    }
+                    adapter = new StoreHomeListAdapter(context,
+                            R.layout.row_store_list, arlistStoreHome, StoresHomeFragment.this);
+                    listStore.setAdapter(adapter);
+                    swipeRefreshLayout.setRefreshing(false);
+
+                    jObject = new JSONObject(result);
+                    JSONObject job = jObject.getJSONObject("commandResult");
+                    int success = job.getInt("success");
+                    String message = job.getString("message");
+                    if (success == 1) {
+				/*	JSONObject job1 = job.getJSONObject("data");
+					UserProfile.PopulateAddress(job1.toString());
+					JSONArray ja = job1.getJSONArray("stores");
+					
+					String notifCount = job1.getString("NotificationCount");
+					String imageUrl = "";
+//					for (int i = 0; i < ja.length(); i++) {
+//						JSONObject jo = ja.getJSONObject(i);
+//						JSONObject jo1 = jo.getJSONObject("Store");
+//						if(jo1.length() > 0){
+//						String storeId = jo1.getString("Id");
+//						String storeName = jo1.getString("Name");
+//						String storeDescription = jo1.getString("Description");
+//						String storeCode = jo1.getString("StoreCode");
+//						String sddress = jo1.getString("Address");
+//
+////						try {
+////
+////							if (jo1.has("StoreGallery")) {
+////								JSONArray jar = jo1.getJSONArray("StoreGallery");
+////
+////
+////								if (jo1.has("Seller")) {
+////									JSONObject joseller = jo1.getJSONObject("Seller");
+////									String seller_id = joseller.getString("Id");
+////									String sellerChat_id = joseller.getString("ChatID");
+////
+////									if (jar.length() > 0) {
+////										JSONObject j = jar.getJSONObject(0);
+////										imageUrl = j.getString("ImageUrl");
+////										arlistStoreHome.add(new StoreHomeListModel(storeId, imageUrl, storeName,seller_id,sellerChat_id));
+////
+////
+////									}else{
+////										arlistStoreHome.add(new StoreHomeListModel(storeId, "", storeName,seller_id,sellerChat_id));
+////
+////									}
+////
+////								}
+////								else {
+////
+////									if (jar.length() > 0) {
+////										JSONObject j = jar.getJSONObject(0);
+////										imageUrl = j.getString("ImageUrl");
+////										/*arlistStoreHome.add(new StoreHomeListModel(storeId, imageUrl, storeName,seller_id,sellerChat_id));*/
+////										arlistStoreHome.add(new StoreHomeListModel(storeId, imageUrl, storeName,"",""));
+////
+////									}else{
+////										/*arlistStoreHome.add(new StoreHomeListModel(storeId, "", storeName,seller_id,sellerChat_id));*/
+////										arlistStoreHome.add(new StoreHomeListModel(storeId, "", storeName,"",""));
+////
+////									}
+////
+////								}
+////
+////							}
+////
+////
+////
+////						}
+////						catch(Exception e) {
+////							e.printStackTrace();
+////						}
+//
+//						}
+//
+//					}
+//
+				/*	if(job1.has("useraddresses")){
+						JSONArray jaAddress = job1.getJSONArray("useraddresses");
+						AppUtil.setUserAddress(context, jaAddress.toString());
+					}else{
+						AppUtil.setUserAddress(context, "");
+					}
+					 someEventListener.someEvent(notifCount+"");
+					
+					adapter = new StoreHomeListAdapter(context,
+							R.layout.row_store_list, arlistStoreHome, StoresHomeFragment.this);
+					listStore.setAdapter(adapter);	*/
+
+                    } else {
+                        AppUtil.showCustomToast(context, message);
+                    }
+
+                } else {
+                    AppUtil.showCustomToast(context,
+                            "please check your internet connection");
+                }
+
+
+                if (arlistStoreHome.size() == 0) {
+					/*String sourceString = "Welcome to MarketApp ! <br><br><br> Can you imagine the <b> entire market on your own mobile phone </b>, without installing so many apps? <br><br>Now this is <b> possible with the Market App </b>. Simply tap on the 'Add' button below to start now.<br><br><br> <b> Happy Shopping! </b>";
+					((TextView) getView().findViewById(R.id.txt_nodata)).setText(Html.fromHtml(sourceString));
+					((RelativeLayout) getView().findViewById(R.id.rl_nodata)).setVisibility(View.VISIBLE);
+					imgAddStore.setVisibility(View.VISIBLE);*/
+                    Intent i = new Intent(context, Generalstore_list_new.class);
+                    startActivityForResult(i, 10);
+
+                } else {
+                    ((RelativeLayout) getView().findViewById(R.id.rl_nodata)).setVisibility(View.GONE);
+                    imgAddStore.setVisibility(View.VISIBLE);
+                }
+
+			/*	Intent i = new Intent(context,Generalstore_list_new.class);
+				startActivityForResult(i, 10);
+*/
+
+                if (dialogLoader != null)
+                    dialogLoader.cancel();
+            } catch (Exception e) {
+                e.printStackTrace();
+                String sourceString = " Happy Shopping! </b>";
+                ((TextView) getView().findViewById(R.id.txt_nodata)).setText(Html.fromHtml(sourceString));
+                ((RelativeLayout) getView().findViewById(R.id.rl_nodata)).setVisibility(View.VISIBLE);
+                imgAddStore.setVisibility(View.VISIBLE);
+                if (dialogLoader != null)
+                    dialogLoader.cancel();
+
+            }
+        }
+    }
+
+    /**
+     * remove store asyntask
+     */
+    private class RemoveStoreTask extends AsyncTask<String, Void, String> {
+        int position;
+
+        public RemoveStoreTask(int position) {
+            this.position = position;
+        }
+
+        protected void onPreExecute() {
+            super.onPreExecute();
+        }
+
+        protected String doInBackground(String... urls) {
+            String response = "";
+            try {
+                JsonCall obj = new JsonCall();
+                response = obj.removeStore(urls[0], urls[1],
+                        context.getResources().getString(R.string.remove_store_url));
+                Log.e("remove store RRESPONSE", "" + response);
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+            return response;
+        }
+
+        protected void onPostExecute(String result) {
+            JSONObject jObject;
+            try {
+                if (result != null) {
+                    jObject = new JSONObject(result);
+                    JSONObject job = jObject.getJSONObject("commandResult");
+                    int success = job.getInt("success");
+                    String message = job.getString("message");
+                    if (success == 1) {
+                        AppUtil.setrefreshValue(context, "yes");
+
+                        AppUtil.showCustomToast(context, message);
+                        //JSONObject job1 = job.getJSONObject("data");
+                        arlistStoreHome.remove(position);
+                        adapter.notifyDataSetChanged();
+
+                        if (arlistStoreHome.size() == 0) {
+                            String sourceString = "Please Add Stores";
+                            ((TextView) getView().findViewById(R.id.txt_nodata)).setText(Html.fromHtml(sourceString));
+                            ((RelativeLayout) getView().findViewById(R.id.rl_nodata)).setVisibility(View.VISIBLE);
+                            imgAddStore.setVisibility(View.VISIBLE);
+
+                        }
+
+                    } else {
+                        AppUtil.showCustomToast(context, message);
+                    }
+
+                } else {
+                    AppUtil.showCustomToast(context,
+                            "please check your internet connection");
+                }
+                if (dialogLoader != null)
+                    dialogLoader.cancel();
+            } catch (Exception e) {
+                e.printStackTrace();
+                if (dialogLoader != null)
+                    dialogLoader.cancel();
+
+            }
+        }
+    }
+
+    /**remove store task*/
+
+
+}

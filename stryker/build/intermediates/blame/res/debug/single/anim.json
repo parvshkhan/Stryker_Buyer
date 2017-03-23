@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_right.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\anim\\slide_out_to_right.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_bottom.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\Stryker_Buyer\\pulltorefresh\\unspecified\\res\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_right.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\anim\\slide_in_from_right.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_bottom.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\Stryker_Buyer\\pulltorefresh\\unspecified\\res\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_top.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\Stryker_Buyer\\pulltorefresh\\unspecified\\res\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_top.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\Stryker_Buyer\\pulltorefresh\\unspecified\\res\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\anim\\slide_in_from_left.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\anim\\slide_in_from_left.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\anim\\slide_out_to_left.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\anim\\slide_out_to_left.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\anim\\abc_fade_in.xml"
+    }
+]

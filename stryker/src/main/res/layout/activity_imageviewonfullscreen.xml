@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/misplashimage"
+
+    android:id="@+id/rel_activity_all">
+
+    <RelativeLayout
+        android:id="@+id/rel_header_product"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/select1">
+
+        <ImageView
+            android:id="@+id/img_back_icon_product"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:clickable="true"
+            android:paddingBottom="@dimen/DP2"
+            android:paddingLeft="@dimen/DP10"
+            android:paddingRight="@dimen/DP5"
+            android:paddingTop="@dimen/DP2"
+            android:src="@drawable/back" />
+
+        <ImageView
+            android:id="@+id/img_setting_product"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:clickable="true"
+            android:paddingBottom="@dimen/DP2"
+            android:paddingLeft="@dimen/DP5"
+            android:paddingRight="@dimen/DP10"
+            android:paddingTop="@dimen/DP2"
+            android:src="@drawable/settings"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/txt_header_product"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@+id/img_back_icon_product"
+            android:padding="@dimen/DP10"
+            android:paddingBottom="@dimen/DP2"
+            android:text="Back"
+            android:singleLine="true"
+            android:textColor="@color/white1"
+            android:textSize="@dimen/DP18" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+
+        android:paddingTop="@dimen/activity_vertical_margin"
+        android:layout_below="@+id/rel_header_product">
+
+
+        <TextView
+            android:id="@+id/pinchTitleText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/hello_world"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:layout_below="@+id/rel_header_product" />
+
+        <com.app.stryker.TouchImageView
+            android:id="@+id/img"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/activity_seller_verification_new"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/background">
+
+        <LinearLayout
+            android:id="@+id/linearlayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="200dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Verify Your Mobile Number"
+                android:textSize="15sp"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="A verification code has been sent to mobile"
+                android:layout_marginTop="10dp"
+
+                />
+
+
+            <RelativeLayout
+                android:id="@+id/rl_counter"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="@dimen/DP20"
+                android:paddingRight="@dimen/DP20">
+
+                <ProgressBar
+                    android:id="@+id/pb_counter"
+                    android:indeterminate="true"
+                    style="?android:attr/progressBarStyleInverse"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:indeterminateDrawable="@drawable/custom_progress_background"
+
+                    />
+
+                <TextView
+                    android:id="@+id/txt_counter"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="30"
+                    android:layout_centerInParent="true"
+                    android:textColor="@color/black"
+                    android:gravity="center"
+                    android:textSize="@dimen/SP14" />
+            </RelativeLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/lastLinearLayout"
+            android:layout_below="@id/linearlayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <EditText
+                android:id="@+id/edt_verify_code"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="Enter the Verification Code"
+                android:layout_marginLeft="15dp"
+                android:layout_weight="0.9"
+                android:textCursorDrawable="@color/black"
+                android:backgroundTint="@color/black" />
+
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/resend"
+                android:layout_marginTop="5dp"
+                android:id="@+id/img_resend"
+
+                />
+
+        </LinearLayout>
+
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Submit"
+            android:layout_below="@id/lastLinearLayout"
+            android:layout_marginLeft="@dimen/DP30"
+            android:layout_marginRight="@dimen/DP30"
+            android:background="@color/red"
+            android:id="@+id/btn_submit"
+
+            />
+
+
+    </RelativeLayout>
+</ScrollView>

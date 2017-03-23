@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@drawable/bg" android:id="@+id/ln_signup_top"
+    android:orientation="vertical">
+    <ScrollView android:layout_width="match_parent" android:layout_height="match_parent">
+        <LinearLayout android:layout_width="match_parent" android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout android:id="@+id/rel_signup_header" android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView android:id="@+id/backimage_in_signup" android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" android:src="@drawable/back"
+                    android:padding="@dimen/DP10" android:layout_alignParentLeft="true" />
+
+                <TextView android:id="@+id/signup_skipfornow_text"
+                    android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="Skip for Now" android:textSize="@dimen/SP14"
+                    android:padding="@dimen/DP10" android:textColor="@color/white"
+                    android:layout_alignParentRight="true" android:layout_centerVertical="true"
+                    android:clickable="true"
+
+
+                />
+
+            </RelativeLayout>
+
+            <ImageView android:id="@+id/signup_stryker_text" android:layout_width="match_parent"
+                android:layout_height="wrap_content" android:src="@drawable/logo"
+                android:gravity="center_horizontal" android:layout_marginTop="@dimen/DP50"
+                android:textStyle="bold" />
+
+
+            <LinearLayout android:id="@+id/ln_loginoption" android:layout_width="match_parent"
+                android:layout_height="match_parent" android:orientation="vertical"
+                android:padding="@dimen/DP30" android:gravity="center"
+
+            >
+
+                <EditText android:id="@+id/signup_emailaddress_text"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:drawableBottom="@drawable/line" android:drawableLeft="@drawable/mail"
+                    android:hint="Email Address" android:textColorHint="@color/hint_color"
+                    android:textColor="@color/white1" android:gravity="center_vertical"
+                    android:textSize="@dimen/SP15" android:background="@android:color/transparent"
+                    android:drawablePadding="@dimen/DP5" android:padding="@dimen/DP4"
+                    android:inputType="textEmailAddress" android:singleLine="true"
+
+
+                />
+                <EditText android:id="@+id/signup_password_text" android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:drawableLeft="@drawable/password"
+                    android:hint="Password" android:textColorHint="@color/hint_color"
+                    android:textColor="@color/white1" android:gravity="center_vertical"
+                    android:textSize="@dimen/SP15" android:drawablePadding="@dimen/DP5"
+                    android:background="@android:color/transparent"
+                    android:drawableBottom="@drawable/line" android:padding="@dimen/DP4"
+                    android:inputType="textPassword" android:singleLine="true" />
+
+                <EditText android:id="@+id/signup_confirmpassword_text"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/password" android:hint="Confirm password"
+                    android:textColorHint="@color/hint_color" android:textColor="@color/hint_color"
+                    android:gravity="center_vertical" android:textSize="@dimen/SP15"
+                    android:drawablePadding="@dimen/DP5"
+                    android:background="@android:color/transparent"
+                    android:drawableBottom="@drawable/line" android:inputType="textPassword"
+                    android:padding="@dimen/DP4" android:singleLine="true" />
+
+                <Button android:id="@+id/signup_signup_bton" android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:background="@drawable/white_button"
+                    android:text="Sign Up" android:textAllCaps="false"
+                    android:layout_gravity="center" android:textColor="@color/orange1"
+                    android:gravity="center" android:textSize="@dimen/DP20"
+                    android:layout_marginTop="@dimen/DP30" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

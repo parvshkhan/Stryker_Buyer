@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/one"
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/busiregistration"
+            android:checked="false"
+            android:icon="@drawable/b_reg"
+            android:title="Business Registration"
+
+            />
+
+        <item
+            android:id="@+id/inviteandearn"
+            android:checked="false"
+            android:icon="@drawable/invite_earn"
+            android:title="Invite and Earn" />
+
+        <item
+            android:id="@+id/shareapp"
+            android:checked="false"
+            android:title="Share App"
+            android:icon="@drawable/share" />
+        <item
+            android:id="@+id/rateus"
+            android:checked="false"
+            android:title="Rate Us"
+            android:icon="@drawable/rate_us" />
+        <item
+            android:id="@+id/feedback"
+            android:checked="false"
+            android:title="FeedBack"
+            android:icon="@drawable/feedback" />
+        <item
+            android:id="@+id/location"
+            android:checked="false"
+            android:title="Location"
+            android:icon="@drawable/locationnew" />
+        <item
+            android:id="@+id/signout"
+            android:checked="false"
+            android:title="Sign out"
+            android:icon="@drawable/sisn_out" />
+    </group>
+
+
+</menu>

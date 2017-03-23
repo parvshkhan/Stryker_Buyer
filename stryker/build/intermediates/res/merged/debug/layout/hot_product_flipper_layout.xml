@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_hot_parent"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/rl_store_pics"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/DP180"
+        android:visibility="visible"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <ViewFlipper
+            android:id="@+id/product_view_flipper"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/img_store"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:scaleType="fitXY"
+                android:src="@drawable/oplaceholder" />
+        </ViewFlipper>
+
+        <!--   <ImageView
+              android:id="@+id/img_next"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_alignParentRight="true"
+              android:layout_centerVertical="true"
+              android:padding="@dimen/DP15"
+              android:src="@drawable/right_a" />
+
+          <ImageView
+              android:id="@+id/img_prev"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_alignParentLeft="true"
+              android:layout_centerVertical="true"
+              android:padding="@dimen/DP15"
+              android:src="@drawable/lest_a" />
+       -->
+        <RelativeLayout
+            android:id="@+id/rl_hot"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/DP180"
+            android:visibility="visible">
+
+            <ImageView
+                android:id="@+id/img_overlay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:clickable="false"
+                android:src="@drawable/overlay_hot" />
+
+            <TextView
+                android:id="@+id/txt_hot_price1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:drawableLeft="@drawable/rupess_hot"
+                android:drawablePadding="@dimen/DP5"
+                android:paddingBottom="@dimen/DP10"
+                android:paddingLeft="@dimen/DP20"
+                android:text=""
+                android:textColor="#ffffff"
+                android:textSize="@dimen/SP13" />
+
+            <TextView
+                android:id="@+id/txt_hot_p_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/txt_hot_price1"
+                android:paddingLeft="@dimen/DP20"
+                android:text="sgggggg"
+                android:textColor="#ffffff"
+                android:textSize="@dimen/SP13" />
+
+            <ImageView
+                android:id="@+id/img_add_hot"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/DP20"
+                android:paddingBottom="@dimen/DP10"
+                android:src="@drawable/add_hot" />
+
+            <LinearLayout
+                android:id="@+id/ll_add_h_remove"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/DP20"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:paddingBottom="@dimen/DP10"
+                android:visibility="gone">
+
+                <ImageView
+                    android:id="@+id/img_h_minus1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/minus_hot" />
+
+                <TextView
+                    android:id="@+id/txt_h_nmbr"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="@dimen/DP2"
+                    android:layout_marginRight="@dimen/DP2"
+                    android:gravity="center"
+                    android:text="11"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/SP12"
+                    android:textStyle="bold" />
+
+                <ImageView
+                    android:id="@+id/img_h_add1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/plus_hot" />
+            </LinearLayout>
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/img_next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+
+            android:padding="@dimen/DP15"
+            android:src="@drawable/right_a" />
+
+        <ImageView
+            android:id="@+id/img_prev"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:clickable="true"
+            android:layout_centerVertical="true"
+            android:padding="@dimen/DP15"
+            android:src="@drawable/lest_a" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

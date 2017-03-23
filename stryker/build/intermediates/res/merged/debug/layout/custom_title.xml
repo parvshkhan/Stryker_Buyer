@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<!--  <TextView
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Please Select Your Choise"
+      android:textSize="@dimen/SP15"
+      android:textColor="@color/orange"
+      android:layout_centerHorizontal="true"
+      />-->
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textColor="@color/orange1"
+    android:text="Please Choose Order Type"
+    android:textSize="@dimen/DP20" />
+

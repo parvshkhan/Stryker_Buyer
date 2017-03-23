@@ -1,0 +1,102 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_background_color">
+    <!--<RelativeLayout
+        android:id="@+id/rl_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/top_header" >
+
+        <TextView
+            android:id="@+id/txt_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:drawableLeft="@drawable/back_arrow"
+            android:text="Settings"
+            android:clickable="true"
+            android:padding="@dimen/DP10"
+            android:drawablePadding="@dimen/DP5"
+            android:layout_alignParentLeft="true"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/SP20" />
+    </RelativeLayout>-->
+
+    <RelativeLayout
+        android:id="@+id/rl_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_header"
+        android:layout_marginLeft="@dimen/DP20"
+        android:layout_marginRight="@dimen/DP20"
+        android:layout_marginTop="@dimen/DP30">
+
+        <TextView
+            android:id="@+id/txt_login"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:padding="@dimen/DP5"
+            android:text="Login"
+
+            android:textColor="@color/orange1"
+            android:textSize="@dimen/SP18" />
+
+        <ImageView
+            android:id="@+id/img_arrow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:paddingBottom="@dimen/DP10"
+            android:paddingLeft="@dimen/DP20"
+            android:paddingRight="@dimen/DP10"
+            android:src="@drawable/right_arrow" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/img_arrow"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/line1" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_logout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_login"
+        android:layout_marginLeft="@dimen/DP20"
+        android:layout_marginRight="@dimen/DP20"
+        android:layout_marginTop="@dimen/DP20"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/txt_logout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:padding="@dimen/DP5"
+            android:text="Logout"
+            android:textColor="@color/orange1"
+            android:textSize="@dimen/SP18" />
+
+        <ImageView
+            android:id="@+id/img_arrow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:paddingBottom="@dimen/DP10"
+            android:paddingLeft="@dimen/DP20"
+            android:paddingRight="@dimen/DP10"
+            android:src="@drawable/right_arrow" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/img_arrow2"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/line1" />
+    </RelativeLayout>
+
+</RelativeLayout>

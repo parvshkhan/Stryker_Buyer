@@ -1,0 +1,122 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_background_color">
+
+    <RelativeLayout
+        android:id="@+id/rl_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/top_header">
+
+        <ImageView
+            android:id="@+id/img_add1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:clickable="true"
+            android:paddingBottom="@dimen/DP5"
+            android:paddingLeft="@dimen/DP15"
+            android:paddingRight="@dimen/DP5"
+            android:paddingTop="@dimen/DP5"
+            android:src="@drawable/back_arrow" />
+
+        <ImageView
+            android:id="@+id/img_cancel_order"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/DP15"
+            android:padding="@dimen/DP7"
+            android:src="@drawable/cancel_order2" />
+
+        <LinearLayout
+            android:id="@+id/ll_header"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/img_cancel_order"
+            android:layout_toRightOf="@+id/img_add1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/txt_store_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="Happy Family Store"
+                android:singleLine="true"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/SP18"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/txt_header_pending"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="Order Pending..."
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/SP15" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_store_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_header"
+        android:background="@drawable/cato"
+        android:gravity="center_vertical"
+        android:padding="@dimen/DP10">
+
+        <TextView
+            android:id="@+id/txt_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/SP15"
+            android:layout_alignParentLeft="true"
+            android:textColor="@color/black1"
+            android:text="Order Placed" />
+
+        <TextView
+            android:id="@+id/txt_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/SP13"
+            android:layout_toRightOf="@+id/txt_1"
+            android:layout_marginLeft="@dimen/DP7"
+            android:textColor="@color/black1"
+            android:text="04:00AM 12/10/2015" />
+
+        <TextView
+            android:id="@+id/txt_seen"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/SP15"
+            android:drawableLeft="@drawable/seen"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="@dimen/DP15"
+            android:drawablePadding="@dimen/DP5"
+            android:textColor="@color/black1"
+            android:text="Seen"
+            android:visibility="invisible" />
+
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/lv_items"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rl_store_name"
+        android:layout_marginTop="@dimen/DP20"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="@dimen/DP0"
+        android:fadingEdge="none"
+        android:listSelector="@android:color/transparent"
+        android:overScrollMode="never"
+        android:visibility="visible"></ListView>
+
+</RelativeLayout>
