@@ -25,8 +25,8 @@ public final class R {
 		public static final int save = 0x7f0f01d1;
 	}
 	public static final class layout {
-		public static final int cropimage = 0x7f03003b;
-		public static final int main = 0x7f030066;
+		public static final int cropimage = 0x7f03003c;
+		public static final int main = 0x7f030067;
 	}
 	public static final class string {
 		public static final int cancel = 0x7f08006c;

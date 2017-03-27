@@ -282,9 +282,12 @@ public class LoginActivity extends RuntimePermissionsActivity implements Connect
                 AppUtil.onKeyBoardDown(context);
                 if (editEmail.getText().toString().trim().equalsIgnoreCase("")) {
                     editEmail.setError("Cannot be blank");
+                    return;
                 } else if (editPassword.getText().toString().trim()
                         .equalsIgnoreCase("")) {
                     editPassword.setError("Enter Password");
+
+                    return;
                 } else if (AppUtil.isNetworkAvailable(context)) {
 
                     dialog = ProgressDialog.show(context, "",
@@ -296,6 +299,7 @@ public class LoginActivity extends RuntimePermissionsActivity implements Connect
 
                 } else {
                     AppUtil.showCustomToast(context,"Please check your internet");
+                    return;
                 }
             }
         });
@@ -924,9 +928,6 @@ public class LoginActivity extends RuntimePermissionsActivity implements Connect
                         if (serviceResponse.commandResult.success.equalsIgnoreCase("1")) {
                             AppUtil.setLoggedInUser(context, new Gson().toJson(serviceResponse.commandResult.data.user,
                                     com.app.model.DbModel.User.class));
-                        } else {
-                            AppUtil.showCustomToast(context,
-                                    "Invalid UserName/Password");
                         }
                     }
                     jObject = new JSONObject(result);

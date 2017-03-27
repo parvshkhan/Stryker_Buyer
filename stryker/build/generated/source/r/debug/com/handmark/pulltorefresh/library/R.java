@@ -35,11 +35,11 @@ public final class R {
 		public static final int ptrSubHeaderTextAppearance = 0x7f010163;
 	}
 	public static final class dimen {
-		public static final int header_footer_left_right_padding = 0x7f0900de;
-		public static final int header_footer_top_bottom_padding = 0x7f0900df;
-		public static final int indicator_corner_radius = 0x7f0900e3;
-		public static final int indicator_internal_padding = 0x7f0900e4;
-		public static final int indicator_right_padding = 0x7f0900e5;
+		public static final int header_footer_left_right_padding = 0x7f0900df;
+		public static final int header_footer_top_bottom_padding = 0x7f0900e0;
+		public static final int indicator_corner_radius = 0x7f0900e4;
+		public static final int indicator_internal_padding = 0x7f0900e5;
+		public static final int indicator_right_padding = 0x7f0900e6;
 	}
 	public static final class drawable {
 		public static final int default_ptr_flip = 0x7f0200d0;
@@ -68,8 +68,8 @@ public final class R {
 		public static final int webview = 0x7f0f001b;
 	}
 	public static final class layout {
-		public static final int pull_to_refresh_header_horizontal = 0x7f03007c;
-		public static final int pull_to_refresh_header_vertical = 0x7f03007d;
+		public static final int pull_to_refresh_header_horizontal = 0x7f03007d;
+		public static final int pull_to_refresh_header_vertical = 0x7f03007e;
 	}
 	public static final class string {
 		public static final int pull_to_refresh_from_bottom_pull_label = 0x7f080072;

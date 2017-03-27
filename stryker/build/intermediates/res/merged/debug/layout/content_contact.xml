@@ -55,28 +55,27 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:gravity="center_vertical"
-                android:weightSum="1"
                 android:orientation="horizontal">
 
                 <TextView
-                    android:layout_width="0dp"
-                    android:layout_height="wrap_content"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
                     android:text="Total Contacts :"
+                    android:gravity="fill_horizontal"
                     android:textSize="@dimen/SP14"
                     android:textColor="@color/black"
-                    android:layout_weight="0.7"
                     />
 
                 <TextView
                     android:id="@+id/numbercontact"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:text=""
+                    android:text="0"
                     android:gravity="end"
-                    android:layout_weight="0.3"
                     android:textSize="@dimen/SP14"
-                    android:textColor="@color/black" />
+                    android:layout_gravity="right"
+                    android:textColor="@color/black"
+                    android:layout_weight="1" />
 
             </LinearLayout>
 

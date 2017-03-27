@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+    <dimen name="px">1px</dimen>
     <dimen name="DP0">0dp</dimen>
     <dimen name="DP1">1dp</dimen>
     <dimen name="DP2">4dp</dimen>

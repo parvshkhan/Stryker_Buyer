@@ -39,6 +39,7 @@ import android.widget.Toast;
 
 import com.app.Database.SQLiteHelper;
 import com.app.Dialog.UpdateDialog;
+import com.app.SpacesItemDecoration;
 import com.app.adapters.MyRecyclerViewAdapter;
 import com.app.jsoncall.JsonCall;
 import com.app.model.StoreListModel;
@@ -252,16 +253,16 @@ public class Generalstore_list_new extends Activity implements GoogleApiClient.C
 
         //    final   RecyclerView.LayoutManager layoutManager = new GridLayoutManager(getApplicationContext(),2);
 
-        GridLayoutManager glm = new GridLayoutManager(getApplicationContext(), 3);
+        GridLayoutManager glm = new GridLayoutManager(getApplicationContext(), 2);
 
         glm.setSpanSizeLookup(new GridLayoutManager.SpanSizeLookup() {
             @Override
             public int getSpanSize(int position) {
-                return (position == 0) ? 3 : 1;
+                return (position == 0) ? 2 : 1;
             }
         });
 
-
+      // recyclerView.addItemDecoration(new SpacesItemDecoration(R.dimen.px));
         recyclerView.setLayoutManager(glm);
 
         SQLiteHelper sqLiteHelper = SQLiteHelper.getInstance(Generalstore_list_new.this);
@@ -657,6 +658,19 @@ public class Generalstore_list_new extends Activity implements GoogleApiClient.C
                     }
                 })
         );
+
+    }
+
+
+    @Override
+    public void onBackPressed() {
+        super.onBackPressed();
+
+        Intent intent = new Intent(this,HomeActivity.class);
+        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
+        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+        startActivity(intent);
+
 
     }
 }

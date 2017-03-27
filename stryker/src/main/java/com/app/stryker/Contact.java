@@ -74,11 +74,11 @@ public class Contact extends AppCompatActivity implements SwipeRefreshLayout.OnR
     ArrayList<ContactModelNew> arrayListNewContact;
     SwipeRefreshLayout swipeRefreshLayout;
     private boolean check = true;
-    ProgressDialog progressDialog;
     private String sponserId = null;
     TextView textView;
     int i =0;
     int limit;
+    private ProgressDialog progressDialog1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -91,6 +91,7 @@ public class Contact extends AppCompatActivity implements SwipeRefreshLayout.OnR
         }
 
         setContentView(R.layout.content_contact);
+
 
         if (getIntent().hasExtra("sponserId")) {
             sponserId = getIntent().getStringExtra("sponserId");
@@ -267,10 +268,11 @@ public class Contact extends AppCompatActivity implements SwipeRefreshLayout.OnR
         return true;
     }
 
-    public List<ContactModel> getContacts(Context ctx,ProgressDialog progressDialog) {
+    public List<ContactModel> getContacts(Context ctx,ProgressDialog progressDialog,TextView textView) {
         List<ContactModel> list = new ArrayList<>();
         ContentResolver contentResolver = ctx.getContentResolver();
         Cursor cursor = contentResolver.query(ContactsContract.Contacts.CONTENT_URI, null, null, null, null);
+
         if (cursor.getCount() > 0) {
 
             while (cursor.moveToNext()) {
@@ -300,6 +302,8 @@ public class Contact extends AppCompatActivity implements SwipeRefreshLayout.OnR
 
                     }
                     progressDialog.setProgress(i);
+                  //  textView.setText(i+"");
+                    //    nocontacttv.setText(progressDialog1.getMax()+"");
                  /* new Thread(new Runnable() {
                       @Override
                       public void run() {
@@ -346,23 +350,26 @@ public class Contact extends AppCompatActivity implements SwipeRefreshLayout.OnR
 
     private class ContactTask extends AsyncTask<Void, Void, Long> {
 
-        private ProgressDialog progressDialog;
+
 
         @Override
         protected void onPreExecute() {
             super.onPreExecute();
-            progressDialog = new ProgressDialog(Contact.this);
-            progressDialog.setMessage("Please Wait...");
-            progressDialog.setCancelable(false);
-            progressDialog.setProgressStyle(ProgressDialog.STYLE_HORIZONTAL);
-            progressDialog.setMax(100);
+            progressDialog1 = new ProgressDialog(Contact.this);
+            progressDialog1.setMessage("Please Wait...");
+            progressDialog1.setCancelable(false);
+            progressDialog1.setProgressStyle(ProgressDialog.STYLE_HORIZONTAL);
+            ContentResolver contentResolver = getApplicationContext().getContentResolver();
+            Cursor cursor = contentResolver.query(ContactsContract.Contacts.CONTENT_URI, null, null, null, null);
+            progressDialog1.setMax(cursor.getCount());
             if (check)
-                progressDialog.show();
+                progressDialog1.show();
         }
 
         @Override
         protected Long doInBackground(Void... params) {
-            contactModelsList = getContacts(Contact.this,progressDialog);
+            contactModelsList = getContacts(Contact.this,progressDialog1, nocontacttv);
+            progressDialog1.dismiss();
             //  SQLiteHelper sqLiteHelper = SQLiteHelper.getInstance(Contact.this);
             long res = 9;
             /*for(int i=0;i<contactModelsList.size();i++)
@@ -375,7 +382,7 @@ public class Contact extends AppCompatActivity implements SwipeRefreshLayout.OnR
         @Override
         protected void onPostExecute(Long aVoid) {
             super.onPostExecute(aVoid);
-            progressDialog.dismiss();
+           // progressDialog.dismiss();
             // Toast.makeText(getApplicationContext(),"res"+aVoid,Toast.LENGTH_SHORT).show();
             nocontacttv.setText(contactModelsList.size() + "");
             number = new StringBuilder();

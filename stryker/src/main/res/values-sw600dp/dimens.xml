@@ -84,4 +84,6 @@
     <dimen name="SP16">24sp</dimen>
     <dimen name="SP17">25sp</dimen>
 
+    <dimen name="px">1px</dimen>
+
 </resources>

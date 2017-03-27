@@ -12,12 +12,12 @@
         "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable-large-tvdpi\\minus_q.png"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable-large-tvdpi\\t_e.png",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable-large-tvdpi\\t_e.png"
-    },
-    {
         "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable-large-tvdpi\\storebrochure.png",
         "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable-large-tvdpi\\storebrochure.png"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable-large-tvdpi\\t_e.png",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable-large-tvdpi\\t_e.png"
     },
     {
         "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable-large-tvdpi\\s_e.png",
@@ -204,12 +204,12 @@
         "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable-large-tvdpi\\addrs.png"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable-large-tvdpi\\placeholder.png",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable-large-tvdpi\\placeholder.png"
-    },
-    {
         "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable-large-tvdpi\\w_e.png",
         "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable-large-tvdpi\\w_e.png"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable-large-tvdpi\\placeholder.png",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable-large-tvdpi\\placeholder.png"
     },
     {
         "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable-large-tvdpi\\bell.png",
@@ -432,16 +432,16 @@
         "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable-large-tvdpi\\select1.png"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable-large-tvdpi\\background.png",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable-large-tvdpi\\background.png"
-    },
-    {
         "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable-large-tvdpi\\cancel_order2.png",
         "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable-large-tvdpi\\cancel_order2.png"
     },
     {
         "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable-large-tvdpi\\store_bg.png",
         "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable-large-tvdpi\\store_bg.png"
+    },
+    {
+        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable-large-tvdpi\\background.png",
+        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable-large-tvdpi\\background.png"
     },
     {
         "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable-large-tvdpi\\rs.png",
