@@ -5,26 +5,26 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="9565308872590"
+    timestamp="11054462057117"
     token="6366097703085850543"
-    verifier="METHOD_ADDED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="799" />
+        duration="828" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="625" />
     <task
         name="instant-run-transform"
-        duration="26" />
+        duration="109" />
     <task
         name="verifier"
-        duration="1" />
+        duration="6" />
 
     <artifact
-        location="D:\23 jan 2017 Market Buyer\Stryker_Buyer\stryker\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
-        type="DEX" />
+        location="D:\23 jan 2017 Market Buyer\Stryker_Buyer\stryker\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
     <build
         timestamp="6373281274095"
@@ -58,6 +58,20 @@
         <artifact
             location="D:\23 jan 2017 Market Buyer\Stryker_Buyer\stryker\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
             type="DEX" />
+    </build>
+    <build
+        timestamp="10817786792834"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\23 jan 2017 Market Buyer\Stryker_Buyer\stryker\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="11054462057117"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="D:\23 jan 2017 Market Buyer\Stryker_Buyer\stryker\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

@@ -462,9 +462,7 @@ public class Generalstore_list_new extends Activity implements GoogleApiClient.C
     }
 
 
-    /**
-     * add store asyntask
-     */
+
 
 
     private class GetCategoryTask extends AsyncTask<String, Void, String> {

@@ -123,16 +123,6 @@ public class MyRecyclerViewAdapter extends RecyclerView
                     }
                 });
 
-/*
-
-        Picasso.with(context)
-                .load("http://marketapp.online/web/uploads/" + mDataset.get(position).getStoreImage())
-                .networkPolicy(NetworkPolicy.NO_CACHE)
-                .into(holder.imageView);
-*/
-
-
-        //holder.imageView.setText(mDataset.get(position).getmText2());
 
     }
 
