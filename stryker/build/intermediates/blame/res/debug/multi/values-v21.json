@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+        "outputFile": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 119
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\0783587f46cecf6a073d02e8e57923baae0406b7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -31,7 +31,7 @@
                     "endOffset": 420
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\values-v21\\styles.xml",
+                    "file": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -51,7 +51,7 @@
                     "endOffset": 511
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -70,7 +70,7 @@
                     "endOffset": 614
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -89,7 +89,7 @@
                     "endOffset": 717
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -108,7 +108,7 @@
                     "endOffset": 822
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -127,7 +127,7 @@
                     "endOffset": 929
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -146,7 +146,7 @@
                     "endOffset": 1038
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -165,7 +165,7 @@
                     "endOffset": 1147
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -184,7 +184,7 @@
                     "endOffset": 1256
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -203,7 +203,7 @@
                     "endOffset": 1365
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -222,7 +222,7 @@
                     "endOffset": 1474
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -241,7 +241,7 @@
                     "endOffset": 1581
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -260,7 +260,7 @@
                     "endOffset": 1684
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -279,7 +279,7 @@
                     "endOffset": 1803
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -299,7 +299,7 @@
                     "endOffset": 1958
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -320,7 +320,7 @@
                     "endOffset": 2113
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -340,7 +340,7 @@
                     "endOffset": 2218
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -359,7 +359,7 @@
                     "endOffset": 2339
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -378,7 +378,7 @@
                     "endOffset": 2440
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -398,7 +398,7 @@
                     "endOffset": 2587
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -419,7 +419,7 @@
                     "endOffset": 2728
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -439,7 +439,7 @@
                     "endOffset": 2831
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -458,7 +458,7 @@
                     "endOffset": 2950
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -477,7 +477,7 @@
                     "endOffset": 3057
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -496,7 +496,7 @@
                     "endOffset": 3160
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -516,7 +516,7 @@
                     "endOffset": 3315
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -537,7 +537,7 @@
                     "endOffset": 3486
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -558,7 +558,7 @@
                     "endOffset": 3635
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -579,7 +579,7 @@
                     "endOffset": 3800
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 3957
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -621,7 +621,7 @@
                     "endOffset": 4108
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -641,7 +641,7 @@
                     "endOffset": 4227
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -661,7 +661,7 @@
                     "endOffset": 4599
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -682,7 +682,7 @@
                     "endOffset": 4748
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -703,7 +703,7 @@
                     "endOffset": 4897
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -723,7 +723,7 @@
                     "endOffset": 5009
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -742,7 +742,7 @@
                     "endOffset": 5156
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
@@ -762,7 +762,7 @@
                     "endOffset": 5309
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -783,7 +783,7 @@
                     "endOffset": 5456
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -803,7 +803,7 @@
                     "endOffset": 5531
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -822,7 +822,7 @@
                     "endOffset": 5620
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 4,
@@ -841,7 +841,7 @@
                     "endOffset": 5707
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
@@ -860,7 +860,7 @@
                     "endOffset": 5808
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
@@ -879,7 +879,7 @@
                     "endOffset": 5911
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -899,7 +899,7 @@
                     "endOffset": 8979
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -920,7 +920,7 @@
                     "endOffset": 9165
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 107,
                         "startColumn": 4,
@@ -941,7 +941,7 @@
                     "endOffset": 12245
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 110,
                         "startColumn": 4,
@@ -962,7 +962,7 @@
                     "endOffset": 12443
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 154,
                         "startColumn": 4,
@@ -983,7 +983,7 @@
                     "endOffset": 12643
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 157,
                         "startColumn": 4,
@@ -1004,7 +1004,7 @@
                     "endOffset": 12766
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 160,
                         "startColumn": 4,
@@ -1025,7 +1025,7 @@
                     "endOffset": 12889
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 162,
                         "startColumn": 4,
@@ -1046,7 +1046,7 @@
                     "endOffset": 13002
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 164,
                         "startColumn": 4,
@@ -1067,7 +1067,7 @@
                     "endOffset": 13185
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 166,
                         "startColumn": 4,
@@ -1088,7 +1088,7 @@
                     "endOffset": 13316
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,
@@ -1109,7 +1109,7 @@
                     "endOffset": 13517
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 171,
                         "startColumn": 4,
@@ -1129,7 +1129,7 @@
                     "endOffset": 13606
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 174,
                         "startColumn": 4,
@@ -1148,7 +1148,7 @@
                     "endOffset": 13717
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 175,
                         "startColumn": 4,
@@ -1168,7 +1168,7 @@
                     "endOffset": 13950
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 176,
                         "startColumn": 4,
@@ -1188,7 +1188,7 @@
                     "endOffset": 14051
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
@@ -1207,7 +1207,7 @@
                     "endOffset": 14146
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 180,
                         "startColumn": 4,
@@ -1226,7 +1226,7 @@
                     "endOffset": 14269
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
@@ -1245,7 +1245,7 @@
                     "endOffset": 14398
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 182,
                         "startColumn": 4,
@@ -1264,7 +1264,7 @@
                     "endOffset": 14515
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
@@ -1284,7 +1284,7 @@
                     "endOffset": 14692
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 184,
                         "startColumn": 4,
@@ -1304,7 +1304,7 @@
                     "endOffset": 14791
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 187,
                         "startColumn": 4,
@@ -1324,7 +1324,7 @@
                     "endOffset": 14926
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 188,
                         "startColumn": 4,
@@ -1345,7 +1345,7 @@
                     "endOffset": 15069
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 190,
                         "startColumn": 4,
@@ -1366,7 +1366,7 @@
                     "endOffset": 15204
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
@@ -1387,7 +1387,7 @@
                     "endOffset": 15323
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
@@ -1408,7 +1408,7 @@
                     "endOffset": 15524
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -1429,7 +1429,7 @@
                     "endOffset": 15643
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
@@ -1449,7 +1449,7 @@
                     "endOffset": 15736
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
@@ -1468,7 +1468,7 @@
                     "endOffset": 15847
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 203,
                         "startColumn": 4,
@@ -1487,7 +1487,7 @@
                     "endOffset": 15903
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
@@ -1507,7 +1507,7 @@
                     "endOffset": 16010
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
@@ -1528,7 +1528,7 @@
                     "endOffset": 16205
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -1549,7 +1549,7 @@
                     "endOffset": 16316
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 211,
                         "startColumn": 4,
@@ -1570,7 +1570,7 @@
                     "endOffset": 16449
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 213,
                         "startColumn": 4,
@@ -1590,7 +1590,7 @@
                     "endOffset": 16544
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 215,
                         "startColumn": 4,
@@ -1609,7 +1609,7 @@
                     "endOffset": 16635
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 216,
                         "startColumn": 4,
@@ -1628,7 +1628,7 @@
                     "endOffset": 16726
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 217,
                         "startColumn": 4,
@@ -1647,7 +1647,7 @@
                     "endOffset": 16843
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 218,
                         "startColumn": 4,
@@ -1667,7 +1667,7 @@
                     "endOffset": 16982
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 219,
                         "startColumn": 4,
@@ -1688,7 +1688,7 @@
                     "endOffset": 17180
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\values-v21\\styles.xml",
+                    "file": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\values-v21\\styles.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1709,7 +1709,7 @@
                     "endOffset": 17693
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 221,
                         "startColumn": 4,
@@ -1730,7 +1730,7 @@
                     "endOffset": 18218
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 231,
                         "startColumn": 4,
@@ -1751,7 +1751,7 @@
                     "endOffset": 18898
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 241,
                         "startColumn": 4,
@@ -1771,7 +1771,7 @@
                     "endOffset": 18955
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 251,
                         "startColumn": 4,
@@ -1790,7 +1790,7 @@
                     "endOffset": 19013
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-v21\\values-v21.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 252,
                         "startColumn": 4,
@@ -1810,7 +1810,7 @@
                     "endOffset": 19143
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-appinvite\\10.0.1\\res\\values-v21\\values.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\c59a5a084db756bbb71b4733c79c56907f0b1589\\output\\res\\values-v21\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,

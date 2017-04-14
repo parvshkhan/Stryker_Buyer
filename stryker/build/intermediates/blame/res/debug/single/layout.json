@@ -1,618 +1,618 @@
 [
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_inviteand_earn.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_inviteand_earn.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_contact.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_contact.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\Stryker_Buyer\\simplecropimagelib\\unspecified\\res\\layout\\main.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_city.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_select_city.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_category_business.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_new_category_business.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_store_list.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_store_list.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\content_contact.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\content_contact.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\signup_activity.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\signup_activity.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_subheader.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_update.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\dialog_update.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_controller_material_dialog_b.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_cart.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\invite_seller_layout.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\invite_seller_layout.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\69125040f03c8264535ec0733943c3fd6f938d62\\output\\res\\layout\\place_autocomplete_progress.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_help_text.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\header.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\layout\\mr_chooser_list_item.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\seller_row_notifications.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\seller_row_notifications.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imageviewonfullscreen.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_imageviewonfullscreen.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_address.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_list.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_product_list.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\custom_pending_header.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\custom_pending_header.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\seller_activity_verify_number.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\seller_activity_verify_number.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0783587f46cecf6a073d02e8e57923baae0406b7\\output\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_order.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\spinner_order.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\pager_item.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\pager_item.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\custom_title.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home_orders.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\fragment_home_orders.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\splash_activity.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\splash_activity.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\Stryker_Buyer\\pulltorefresh\\unspecified\\res\\layout\\pull_to_refresh_header_vertical.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\layout\\cast_expanded_controller_activity.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_details.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_product_details.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog_order.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\custom_dialog_order.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_splash.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_product_list_2.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_product_list_2.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\custom_title.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\custom_title.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_seller_verification_new.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_seller_verification_new.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0783587f46cecf6a073d02e8e57923baae0406b7\\output\\res\\layout\\design_layout_snackbar_include.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_address.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_add_address.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0783587f46cecf6a073d02e8e57923baae0406b7\\output\\res\\layout\\design_layout_tab_text.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_address_list.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_address_list.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_signup.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\searchbuisness.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\searchbuisness.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\slide_in_from_left.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\slide_in_from_left.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forgot_password.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_forgot_password.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_sticker.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\list_item_sticker.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_header.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_header.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\hot_product_flipper_layout.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\hot_product_flipper_layout.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\customlayout_for_generalstore.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\customlayout_for_generalstore.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\layout\\mr_playback_control.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\notification_template_lines.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_store_list.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_store_list.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chat_home_layout.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\fragment_chat_home_layout.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_splash.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\content_contact.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\content_contact.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_mini_controller.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_update.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\dialog_update.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\product_details_layout.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\product_details_layout.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\seller_row_push_notification.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\seller_row_push_notification.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\view_pager_generalstore.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\view_pager_generalstore.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_new.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\dialog_new.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0783587f46cecf6a073d02e8e57923baae0406b7\\output\\res\\layout\\design_layout_snackbar.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\seller_row_push_notification.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\seller_row_push_notification.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\list_group_expandiblelistview.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\list_group_expandiblelistview.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\city_row.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\city_row.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\footer.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\footer.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_product_list_2.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_product_list_2.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\dialogs_activity.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\dialogs_activity.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\generalstore_list_new.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\generalstore_list_new.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_volume_control.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\category_row_search.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\category_row_search.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\layout\\place_autocomplete_item_prediction.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_address_list.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_address_list.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\pager_item.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\pager_item.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\product_details_layout.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\product_details_layout.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pager_store_home.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\fragment_pager_store_home.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_chooser_dialog.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_store_front.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\fragment_store_front.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_inviteand_earnlarge.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_inviteand_earnlarge.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_city.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_city.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\spinner_order.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\spinner_order.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_product_list.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_product_list.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_list.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_product_list.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_chat.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\pulltorefresh\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_vertical.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\left_drawer_row.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\left_drawer_row.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\city_row.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\city_row.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\layout\\mr_controller_volume_item.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\forgot_password_layout.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\forgot_password_layout.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\generalstore_list_new_small.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\generalstore_list_new_small.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_menu_item_action_area.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\footer_pending_list.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\footer_pending_list.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_select_city.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_select_city.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_message.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\list_item_message.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\generalstore_list_new.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\generalstore_list_new.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\generalstore_list.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\generalstore_list.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forgot_phone.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_forgot_phone.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_simple.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notification.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_notification.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forgot_phone.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_forgot_phone.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\my_custom_header.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\my_custom_header.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_stores.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_home_stores.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\forgot_password_layout.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\forgot_password_layout.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notification.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_notification.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_contact.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\header.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\list_group_expandiblelistview.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\list_group_expandiblelistview.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_settings.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forgot_password.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_forgot_password.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_view.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_header.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_header.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_business_account.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_business_account.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_view_pager_general_store.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_view_pager_general_store.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_contact.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_contact.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\category_row_grid_layout.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\category_row_grid_layout.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_home_orders.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\fragment_home_orders.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_media_action.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_lines.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\69125040f03c8264535ec0733943c3fd6f938d62\\output\\res\\layout\\place_autocomplete_fragment.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\custom_pending_header.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\custom_pending_header.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0783587f46cecf6a073d02e8e57923baae0406b7\\output\\res\\layout\\design_navigation_item.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\invite_seller_layout.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\invite_seller_layout.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0783587f46cecf6a073d02e8e57923baae0406b7\\output\\res\\layout\\design_navigation_item_header.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_order_expandable.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\list_item_order_expandable.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\customlayout_for_generalstore.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\customlayout_for_generalstore.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_text.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_media.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\toast_layout.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\toast_layout.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_chooser_list_item.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_seller_verification_new.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_seller_verification_new.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_add_store_list.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_add_store_list.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_address.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_add_address.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_room.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\list_item_room.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\splash_activity.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\splash_activity.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\cropimage.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\Stryker_Buyer\\simplecropimagelib\\unspecified\\res\\layout\\cropimage.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_headre_update.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\dialog_headre_update.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_user.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\list_item_user.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_category_business.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_new_category_business.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\seller_activity_verify_number.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\seller_activity_verify_number.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\custom_dialog_order.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\custom_dialog_order.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\simplecropimagelib\\build\\intermediates\\bundles\\default\\res\\layout\\main.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\seller_row_notifications.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\seller_row_notifications.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_submit.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\dialog_submit.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_inviteand_earnlarge.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_inviteand_earnlarge.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\search_buisness.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\search_buisness.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_user.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\list_item_user.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chat_layout.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\fragment_chat_layout.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\cropimage.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\simplecropimagelib\\build\\intermediates\\bundles\\default\\res\\layout\\cropimage.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\my_custom_header.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\my_custom_header.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0783587f46cecf6a073d02e8e57923baae0406b7\\output\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\toast_layout.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\toast_layout.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0783587f46cecf6a073d02e8e57923baae0406b7\\output\\res\\layout\\design_navigation_menu_item.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_view_pager_general_store.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_view_pager_general_store.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_add_store_list.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_add_store_list.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_address.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_address.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_headre_update.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\dialog_headre_update.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pending.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_pending.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_signup.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_signup.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_business_account.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_business_account.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_playback_control.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\dialogs_activity.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\dialogs_activity.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\slide_in_from_left.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\slide_in_from_left.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\generalstore_list_new_small.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\generalstore_list_new_small.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\layout\\mr_chooser_dialog.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_room.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\list_item_room.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_submit.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\dialog_submit.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_address.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_address.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\layout\\cast_mini_controller.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_order_list.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_order_list.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_product_list.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_product_list.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\search_buisness.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\search_buisness.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_stores.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_home_stores.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\layout\\place_autocomplete_fragment.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0783587f46cecf6a073d02e8e57923baae0406b7\\output\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_sticker.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\list_item_sticker.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cart.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_cart.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_city.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_city.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\left_drawer_row.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\left_drawer_row.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_product_details.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_product_details.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\category_row_search.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\category_row_search.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0783587f46cecf6a073d02e8e57923baae0406b7\\output\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\signup_activity.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\signup_activity.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\layout\\mr_volume_control.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\layout\\place_autocomplete_progress.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\searchbuisness.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\searchbuisness.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\hot_product_flipper_layout.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\hot_product_flipper_layout.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chat_layout.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\fragment_chat_layout.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\Stryker_Buyer\\pulltorefresh\\unspecified\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_inviteand_earn.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_inviteand_earn.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_order_list.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_order_list.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\footer_pending_list.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\footer_pending_list.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_message.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\list_item_message.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\layout\\cast_help_text.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_pending.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_pending.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_chat_home_layout.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\fragment_chat_home_layout.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_new.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\dialog_new.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pager_store_home.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\fragment_pager_store_home.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\footer.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\footer.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_intro_overlay.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\list_item_order_expandable.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\list_item_order_expandable.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settings.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_settings.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\category_row_grid_layout.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\category_row_grid_layout.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pending.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_pending.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_store_front.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\fragment_store_front.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_expanded_controller_activity.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\69125040f03c8264535ec0733943c3fd6f938d62\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_controller_volume_item.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\pulltorefresh\\build\\intermediates\\bundles\\default\\res\\layout\\pull_to_refresh_header_horizontal.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_chat.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_chat.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_product_list.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\fragment_product_list.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\generalstore_list.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\generalstore_list.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\row_pending.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\row_pending.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_big_media.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\layout\\cast_intro_overlay.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\layout\\mr_controller_material_dialog_b.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_imageviewonfullscreen.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_imageviewonfullscreen.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_product_list.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\fragment_product_list.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\notification_template_part_time.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\activity_address.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\activity_address.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\view_pager_generalstore.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\layout\\view_pager_generalstore.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\69125040f03c8264535ec0733943c3fd6f938d62\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0783587f46cecf6a073d02e8e57923baae0406b7\\output\\res\\layout\\design_navigation_menu.xml"
     }
 ]

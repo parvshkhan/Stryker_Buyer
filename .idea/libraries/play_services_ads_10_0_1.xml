@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="play-services-ads-10.0.1">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/stryker/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/stryker/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/7db3011ff89a4c4e2822f90dd14ad2b4a49e4284/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/7db3011ff89a4c4e2822f90dd14ad2b4a49e4284/output/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

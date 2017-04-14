@@ -1,7 +1,7 @@
-#Mon Mar 27 12:24:12 IST 2017
-base.0=D\:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cbcc0a0b53277e4093033ad6831a739322f65b54
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=D\:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5becd4763039a731bb099e25a631956869c2efff\\classes.dex
-base.1=D\:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5becd4763039a731bb099e25a631956869c2efff
-file.0=D\:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_cbcc0a0b53277e4093033ad6831a739322f65b54\\classes.dex
+#Mon Apr 10 17:15:36 IST 2017
+base.0=C\:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_028c1395951b9d0f63b58f366cadb18b0bcaab0f
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_53d478a627c75c087512b0b67bf7ff2a281c5f2f\\classes.dex
+base.1=C\:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_53d478a627c75c087512b0b67bf7ff2a281c5f2f
+file.0=C\:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_028c1395951b9d0f63b58f366cadb18b0bcaab0f\\classes.dex

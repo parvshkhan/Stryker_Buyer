@@ -54,8 +54,7 @@
     <uses-permission android:name="com.app.stryker.permission.C2D_MESSAGE" />
 
     <application
-        name="com.quickblox.sample.chat.ApplicationSingletonBuyer"
-        android:name="com.android.tools.fd.runtime.BootstrapApplication"
+        android:name="com.quickblox.sample.chat.ApplicationSingletonBuyer"
         android:allowBackup="true"
         android:hardwareAccelerated="false"
         android:icon="@drawable/app_icon_new"
@@ -417,6 +416,11 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.app.stryker.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
     </application>
 
 </manifest>

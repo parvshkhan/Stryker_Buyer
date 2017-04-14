@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\23 jan 2017 Market Buyer\Stryker_Buyer\simplecropimagelib\src\main\shaders"/></dataSet><dataSet config="release"><source path="D:\23 jan 2017 Market Buyer\Stryker_Buyer\simplecropimagelib\src\release\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Parvesh\StudioProjects\Stryker_Buyer\simplecropimagelib\src\main\shaders"/></dataSet><dataSet config="release"><source path="C:\Users\Parvesh\StudioProjects\Stryker_Buyer\simplecropimagelib\src\release\shaders"/></dataSet></merger>

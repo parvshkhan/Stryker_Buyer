@@ -5,6 +5,7 @@ import android.app.SearchManager;
 import android.content.ContentResolver;
 import android.content.ContentUris;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.database.Cursor;
@@ -15,9 +16,11 @@ import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Build;
 import android.os.Bundle;
+import android.preference.CheckBoxPreference;
 import android.provider.ContactsContract;
 import android.support.v4.widget.SwipeRefreshLayout;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.AppCompatCheckBox;
 import android.support.v7.widget.SearchView;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
@@ -25,6 +28,9 @@ import android.view.Menu;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
+import android.widget.ArrayAdapter;
+import android.widget.CheckBox;
+import android.widget.CompoundButton;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.ListView;
@@ -55,16 +61,17 @@ import java.util.List;
 import java.util.Map;
 import java.util.logging.Handler;
 
-public class Contact extends AppCompatActivity implements SwipeRefreshLayout.OnRefreshListener,IContactsCount {
+public class Contact extends AppCompatActivity implements IContactsCount {
 
-
+    Cursor cursor;
+    MyArrayAdapterContact myArrayAdapterContact;
     private static final String VERIFY_CONTACT = "http://marketapp.online/web/salesline/api/usersearch";
     private static final String INVITE_USER = "http://marketapp.online/web/salesline/api/sentmessage";
     private static final int MY_SOCKET_TIMEOUT_MS = 50000;
     TextView nocontacttv;
     ListView listView;
     LinearLayout buttonInvite;
-
+    AppCompatCheckBox appCompatCheckBoxAll;
     List<ContactModel> contactModelsList;
     Toolbar toolbar;
     ImageView imageViewback;
@@ -98,26 +105,46 @@ public class Contact extends AppCompatActivity implements SwipeRefreshLayout.OnR
         }
 
         if (getIntent().hasExtra("limit")) {
-            limit =getIntent().getIntExtra("limit",5);
+            limit =getIntent().getIntExtra("limit",5000);
         }
 
         sharedPreferences = getSharedPreferences("Contact", MODE_PRIVATE);
         toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-
+      //  appCompatCheckBoxAll = (AppCompatCheckBox)findViewById(R.id.checkall);
         nocontacttv = (TextView) findViewById(R.id.numbercontact);
         listView = (ListView) findViewById(R.id.listcontact);
         buttonInvite = (LinearLayout) findViewById(R.id.invite);
         imageViewback = (ImageView) findViewById(R.id.back);
-        swipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.pull_to);
+       // swipeRefreshLayout = (SwipeRefreshLayout) findViewById(R.id.pull_to);
 
         textView = (TextView) findViewById(R.id.count);
-        swipeRefreshLayout.setOnRefreshListener(this);
+       // swipeRefreshLayout.setOnRefreshListener(this);
        /* swipeRefreshLayout.setColorSchemeColors(Color.RED, Color.GREEN, Color.BLUE);*/
         //arrayListNewContact = sqLiteHelper.getAllRecordNew();
-        new ContactTask().execute();
+        contactModelsList=getContacts();
+        nocontacttv.setText(contactModelsList.size() + "");
+        number = new StringBuilder();
+        for (int i = 0; i < contactModelsList.size(); i++) {
+            number.append(contactModelsList.get(i).getName() + "_" + contactModelsList.get(i).getMobileNumber().replace("+91","") + ",");
+        }
 
+        verify(number);
+
+      /*  appCompatCheckBoxAll.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
+            @Override
+            public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
+
+                CheckBox chk = (CheckBox) listView.findViewById(R.id.chkboccontact);
+                    int itemCount = listView.getCount();
+                    for(int i=0 ; i < itemCount ; i++){
+                        listView.setItemChecked(i, chk.isChecked());
+                    }
+
+
+            }
+        });*/
 
         buttonInvite.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -156,6 +183,8 @@ public class Contact extends AppCompatActivity implements SwipeRefreshLayout.OnR
                 finish();
             }
         });
+
+
     }
 
     private void sendInvitiation(final StringBuilder strings) {
@@ -248,7 +277,7 @@ public class Contact extends AppCompatActivity implements SwipeRefreshLayout.OnR
                     }
                 }
                 Log.i("temp size", tempArrayList.size() + "");
-                MyArrayAdapterContact myArrayAdapterContact = new MyArrayAdapterContact(getApplicationContext(), R.layout.row_contact, tempArrayList);
+                MyArrayAdapterContact myArrayAdapterContact = new MyArrayAdapterContact(getApplicationContext(), R.layout.row_contact, tempArrayList,nocontacttv);
 
                 myArrayAdapterContact.icallBack = new ICountCallBack() {
                     @Override
@@ -302,7 +331,7 @@ public class Contact extends AppCompatActivity implements SwipeRefreshLayout.OnR
 
                     }
                     progressDialog.setProgress(i);
-                  //  textView.setText(i+"");
+                    //  textView.setText(i+"");
                     //    nocontacttv.setText(progressDialog1.getMax()+"");
                  /* new Thread(new Runnable() {
                       @Override
@@ -324,21 +353,50 @@ public class Contact extends AppCompatActivity implements SwipeRefreshLayout.OnR
         return list;
     }
 
+    public List<ContactModel>getContacts()
+    {
+        List<ContactModel> contactModels= new ArrayList<>();
+        ContentResolver cr = getContentResolver();
+        cursor = cr.query(ContactsContract.CommonDataKinds.Phone.CONTENT_URI, PROJECTION, null, null, null);
+        if (cursor != null) {
+            try {
+                final int nameIndex = cursor.getColumnIndex(ContactsContract.Contacts.DISPLAY_NAME);
+                final int numberIndex = cursor.getColumnIndex(ContactsContract.CommonDataKinds.Phone.NUMBER);
+
+                String  number;
+                int i=0;
+                while (cursor.moveToNext()) {
+
+                    ContactModel info = new ContactModel();
+
+                    info.setName(cursor.getString(nameIndex));
+                    info.setMobileNumber(cursor.getString(numberIndex));
+                    contactModels.add(info);
+                }
+            } finally {
+                cursor.close();
+            }
+        }
+
+        return contactModels;
+    }
+
+
     @Override
     protected void onResume() {
         super.onResume();
     }
 
-    @Override
+  /*  @Override
     public void onRefresh() {
         check = false;
         swipeRefreshLayout.setRefreshing(true);
 
         refreshList();
-    }
+    }*/
 
     private void refreshList() {
-        new ContactTask().execute();
+        /*new ContactTask().execute();*/
     }
 
     @Override
@@ -347,10 +405,12 @@ public class Contact extends AppCompatActivity implements SwipeRefreshLayout.OnR
 
     }
 
-
-    private class ContactTask extends AsyncTask<Void, Void, Long> {
-
-
+    private static final String[] PROJECTION = new String[] {
+            ContactsContract.CommonDataKinds.Phone.CONTACT_ID,
+            ContactsContract.Contacts.DISPLAY_NAME,
+            ContactsContract.CommonDataKinds.Phone.NUMBER
+    };
+ /*   private class ContactTask extends AsyncTask<Void, Void, Long> {
 
         @Override
         protected void onPreExecute() {
@@ -358,31 +418,30 @@ public class Contact extends AppCompatActivity implements SwipeRefreshLayout.OnR
             progressDialog1 = new ProgressDialog(Contact.this);
             progressDialog1.setMessage("Please Wait...");
             progressDialog1.setCancelable(false);
-            progressDialog1.setProgressStyle(ProgressDialog.STYLE_HORIZONTAL);
-            ContentResolver contentResolver = getApplicationContext().getContentResolver();
-            Cursor cursor = contentResolver.query(ContactsContract.Contacts.CONTENT_URI, null, null, null, null);
-            progressDialog1.setMax(cursor.getCount());
-            if (check)
-                progressDialog1.show();
+            ContentResolver cr = getContentResolver();
+           cursor = cr.query(ContactsContract.CommonDataKinds.Phone.CONTENT_URI, PROJECTION, null, null, null);
+            //progressDialog1.show();
         }
 
         @Override
         protected Long doInBackground(Void... params) {
-            contactModelsList = getContacts(Contact.this,progressDialog1, nocontacttv);
-            progressDialog1.dismiss();
+            // contactModelsList = getContacts(Contact.this,progressDialog1, nocontacttv);
+            contactModelsList=getContacts();
+
+            // progressDialog1.dismiss();
             //  SQLiteHelper sqLiteHelper = SQLiteHelper.getInstance(Contact.this);
             long res = 9;
-            /*for(int i=0;i<contactModelsList.size();i++)
+            *//*for(int i=0;i<contactModelsList.size();i++)
             {
                 res = sqLiteHelper.insertRecordOriginal(contactModelsList.get(i));
-            }*/
+            }*//*
             return res;
         }
 
         @Override
         protected void onPostExecute(Long aVoid) {
             super.onPostExecute(aVoid);
-           // progressDialog.dismiss();
+            progressDialog1.dismiss();
             // Toast.makeText(getApplicationContext(),"res"+aVoid,Toast.LENGTH_SHORT).show();
             nocontacttv.setText(contactModelsList.size() + "");
             number = new StringBuilder();
@@ -394,7 +453,7 @@ public class Contact extends AppCompatActivity implements SwipeRefreshLayout.OnR
 
 
         }
-    }
+    }*/
 
 
     private void verify(final StringBuilder number) {
@@ -478,7 +537,17 @@ public class Contact extends AppCompatActivity implements SwipeRefreshLayout.OnR
                 Log.i("new Contact size", arrayListNewContact.size() + "");
                 if (tempArrayList != null)
                     tempArrayList.clear();
-                MyArrayAdapterContact myArrayAdapterContact = new MyArrayAdapterContact(Contact.this, R.layout.row_contact, arrayListNewContact);
+
+
+
+                nocontacttv.setOnClickListener(new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+
+                    }
+                });
+
+                myArrayAdapterContact = new MyArrayAdapterContact(Contact.this, R.layout.row_contact, arrayListNewContact,nocontacttv);
 
 
                 myArrayAdapterContact.icallBack = new ICountCallBack() {
@@ -493,9 +562,16 @@ public class Contact extends AppCompatActivity implements SwipeRefreshLayout.OnR
 
                 listView.setAdapter(myArrayAdapterContact);
 
-                swipeRefreshLayout.setRefreshing(false);
+              //  swipeRefreshLayout.setRefreshing(false);
                 MyArrayAdapterContact.count = 0;
                 textView.setText(MyArrayAdapterContact.count + "");
+
+
+                myArrayAdapterContact.notifyDataSetChanged();
+                /*for ( int i=0; i< listView.getCount(); i++ ) {
+                    CheckBox checkBox = (CheckBox)listView.getChildAt(0);
+                    checkBox.setChecked(true);
+                }*/
 
             }
         }
@@ -508,8 +584,6 @@ public class Contact extends AppCompatActivity implements SwipeRefreshLayout.OnR
         super.onDestroy();
         MyArrayAdapterContact.count = 0;
     }
-
-
 
     private class VerifyContacts extends AsyncTask<String, Void, String>
     {

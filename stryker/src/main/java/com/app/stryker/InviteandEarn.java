@@ -16,6 +16,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.android.volley.DefaultRetryPolicy;
 import com.android.volley.Request;
 import com.android.volley.RequestQueue;
 import com.android.volley.Response;
@@ -48,6 +49,7 @@ public class InviteandEarn extends Activity implements View.OnClickListener {
     private String sponserID;
     private String userName,Pass;
     int limit;
+    private static final int MY_SOCKET_TIMEOUT_MS = 50000;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -184,7 +186,8 @@ public class InviteandEarn extends Activity implements View.OnClickListener {
                 new Response.ErrorListener() {
                     @Override
                     public void onErrorResponse(VolleyError error) {
-                        Toast.makeText(InviteandEarn.this, error.toString(), Toast.LENGTH_LONG).show();
+                        Toast.makeText(InviteandEarn.this, "Please try again", Toast.LENGTH_LONG).show();
+                        progressDialog.dismiss();
                     }
                 }) {
             @Override
@@ -197,7 +200,10 @@ public class InviteandEarn extends Activity implements View.OnClickListener {
             }
 
         };
-
+        stringRequest.setRetryPolicy(new DefaultRetryPolicy(
+                MY_SOCKET_TIMEOUT_MS,
+                DefaultRetryPolicy.DEFAULT_MAX_RETRIES,
+                DefaultRetryPolicy.DEFAULT_BACKOFF_MULT));
         RequestQueue requestQueue = Volley.newRequestQueue(this);
         requestQueue.add(stringRequest);
 
@@ -287,7 +293,10 @@ public class InviteandEarn extends Activity implements View.OnClickListener {
             }
 
         };
-
+        stringRequest.setRetryPolicy(new DefaultRetryPolicy(
+                MY_SOCKET_TIMEOUT_MS,
+                DefaultRetryPolicy.DEFAULT_MAX_RETRIES,
+                DefaultRetryPolicy.DEFAULT_BACKOFF_MULT));
         RequestQueue requestQueue = Volley.newRequestQueue(this);
         requestQueue.add(stringRequest);
     }
@@ -334,9 +343,10 @@ public class InviteandEarn extends Activity implements View.OnClickListener {
 
             //After this point you wait for callback in onRequestPermissionsResult(int, String[], int[]) overriden method
         } else {
-            if (confirmNext != -1) {
+           if (confirmNext != -1) {
                 Intent intent = new Intent(InviteandEarn.this, Contact.class);
                 intent.putExtra("sponserId", sponserID);
+                intent.putExtra("limit",5000);
                 startActivity(intent);
             } else
                 Toast.makeText(this, "Please Login Above", Toast.LENGTH_SHORT).show();

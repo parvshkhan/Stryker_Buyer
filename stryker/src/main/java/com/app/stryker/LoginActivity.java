@@ -1192,13 +1192,13 @@ public class LoginActivity extends RuntimePermissionsActivity implements Connect
     private class AddStoreTask extends AsyncTask<String, Void, String> {
 
         ProgressDialog progressDialog;
+
         protected void onPreExecute() {
             super.onPreExecute();
             progressDialog = new ProgressDialog(LoginActivity.this);
             progressDialog.setMessage("Adding Your store");
             progressDialog.setCancelable(false);
             progressDialog.show();
-
         }
 
         protected String doInBackground(String... urls) {
@@ -1209,6 +1209,9 @@ public class LoginActivity extends RuntimePermissionsActivity implements Connect
                         .getResources().getString(R.string.add_store_url));
                 Log.e("add Store RRESPONSE", "" + response);
             } catch (Exception e) {
+                Intent i = new Intent(LoginActivity.this,
+                        HomeActivity.class);
+                startActivity(i);
                 e.printStackTrace();
             }
             return response;

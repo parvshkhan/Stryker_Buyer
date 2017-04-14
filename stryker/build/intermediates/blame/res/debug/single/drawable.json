@@ -1,558 +1,562 @@
 [
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\qb_splash_bg.png",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\qb_splash_bg.png"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\incoming_message_bg.9.png",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\incoming_message_bg.9.png"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\95b1f5b37cccda185395b855f9f770e65634560f\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_pause.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_notification_pause.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_solidrounded.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\bottom_solidrounded.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\pulltorefresh\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_top.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_red_bg.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\drawable_red_bg.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\splash.png"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedwithappcolor.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\roundedwithappcolor.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\ic_launcher.png"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\drawable\\mr_ic_audiotrack_light.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_red_button.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\drawable_red_button.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\ic_launcher.png"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_keyboard_backspace_black_36dp.png",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\ic_keyboard_backspace_black_36dp.png"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\qb_splash_bg.png",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\qb_splash_bg.png"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_red_bg.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\drawable_red_bg.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\95b1f5b37cccda185395b855f9f770e65634560f\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\Stryker_Buyer\\pulltorefresh\\unspecified\\res\\drawable\\indicator_bg_bottom.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_insert_emoticon.png",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\ic_action_insert_emoticon.png"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\drawable\\mr_ic_media_route_on_dark.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\search_icon.png",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\search_icon.png"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\address.png",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\address.png"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\3e966b4e2bc4c73313342a7d402905ffae5eb026\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\95b1f5b37cccda185395b855f9f770e65634560f\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_expanded_controller_play.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\drawable\\mr_ic_pause_dark.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\95b1f5b37cccda185395b855f9f770e65634560f\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_keyboard_backspace_black_36dp.png",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\ic_keyboard_backspace_black_36dp.png"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\location.png",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\location.png"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_mute.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\navigationdrawerheadergradient.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\navigationdrawerheadergradient.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\drawable_red_button.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\drawable_red_button.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_crop_button.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\simplecropimagelib\\build\\intermediates\\bundles\\default\\res\\drawable\\selector_crop_button.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_disconnect.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_play.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\drawable\\mr_ic_media_route_on_light.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedwithborder_gray.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\roundedwithborder_gray.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\drawable\\mr_ic_play_dark.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_forward10.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_notification_forward.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_on_light.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_dialog_material_background_light.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\navigationdrawerheadergradient.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\navigationdrawerheadergradient.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedwithborder.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\roundedwithborder.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progress_background.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\custom_progress_background.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\roundtext.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\roundtext.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\drawable\\mr_ic_pause_light.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_user.png",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\ic_user.png"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\color_cursor.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\color_cursor.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\roundtext.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\roundtext.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\drawable\\mr_ic_close_dark.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_on_dark.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_solidrounded.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\bottom_solidrounded.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\outgoing_message_bg.9.png",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\outgoing_message_bg.9.png"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_keyboard.png",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\ic_action_keyboard.png"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\back_button.png",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\back_button.png"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_notification_play.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_rewind30.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\95b1f5b37cccda185395b855f9f770e65634560f\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_rewind.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_insert_emoticon.png",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\ic_action_insert_emoticon.png"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\qb_splash_link.png",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\qb_splash_link.png"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_skip_ad_label_border.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_room.png",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\ic_room.png"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\drawable\\mr_dialog_material_background_dark.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\color_cursor.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\color_cursor.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_small_icon.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_new.png",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\ic_action_new.png"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\qb_splash_link.png",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\qb_splash_link.png"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_close_light.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\market_icon.png",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\market_icon.png"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\drawable\\ic_collapse.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_forward30.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\95b1f5b37cccda185395b855f9f770e65634560f\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\line_divider.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\line_divider.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedwithappcolor.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\roundedwithappcolor.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_pause_light.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_close_dark.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\static_image.jpg",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\static_image.jpg"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_user.png",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\ic_user.png"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0783587f46cecf6a073d02e8e57923baae0406b7\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\market_icon.png",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\market_icon.png"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\ic_collapse.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\drawable\\mr_dialog_material_background_light.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\incoming_message_bg.9.png",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\incoming_message_bg.9.png"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_pause.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_crop_button.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\Stryker_Buyer\\simplecropimagelib\\unspecified\\res\\drawable\\selector_crop_button.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_cell.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\rounded_cell.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\back_button.png",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\back_button.png"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\location.png",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\location.png"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\qb_splash_hero.png",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\qb_splash_hero.png"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\search_icon.png",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\search_icon.png"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_skip_next.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_expanded_controller_play.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\static_image.jpg",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\static_image.jpg"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0783587f46cecf6a073d02e8e57923baae0406b7\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_mini_controller_mute.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_top.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\Stryker_Buyer\\pulltorefresh\\unspecified\\res\\drawable\\indicator_bg_top.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\line_divider.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\line_divider.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\pulltorefresh\\build\\intermediates\\bundles\\default\\res\\drawable\\indicator_bg_bottom.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_audiotrack_light.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_dialog_material_background_dark.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_border.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\toast_border.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_rewind10.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_cell.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\rounded_cell.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\address.png",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\address.png"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_play_dark.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\outgoing_message_bg.9.png",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\outgoing_message_bg.9.png"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_skip_ad_label_border.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\splash.png",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\splash.png"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\your_check_drawable.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\your_check_drawable.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_border.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\toast_border.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progress_background.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\custom_progress_background.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_room.png",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\ic_room.png"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\drawable\\mr_ic_play_light.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\95b1f5b37cccda185395b855f9f770e65634560f\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_new.png",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\ic_action_new.png"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_play.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedwithborder_gray.xml",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\roundedwithborder_gray.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\95b1f5b37cccda185395b855f9f770e65634560f\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\roundedwithborder.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\roundedwithborder.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\ic_expand.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\drawable\\ic_expand.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\drawable\\mr_ic_cast_dark.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\drawable\\mr_ic_play_light.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\6a3922dd23dacd0fb7f1e5b5636157c03d260198\\output\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\10.0.1\\res\\drawable\\cast_ic_notification_connecting.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\drawable\\mr_ic_cast_light.xml"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_action_keyboard.png",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\ic_action_keyboard.png"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\qb_splash_hero.png",
+        "source": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\src\\main\\res\\drawable\\qb_splash_hero.png"
     },
     {
-        "merged": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
-        "source": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\drawable\\cast_ic_notification_forward.xml"
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\0d78a62647e88dfc8776fed2fc70e93676acb7c2\\output\\res\\drawable\\mr_ic_close_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Parvesh\\.android\\build-cache\\cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     }
 ]

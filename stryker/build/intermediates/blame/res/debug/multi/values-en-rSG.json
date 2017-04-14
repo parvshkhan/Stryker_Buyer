@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
+        "outputFile": "C:\\Users\\Parvesh\\StudioProjects\\Stryker_Buyer\\stryker\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rSG\\values-en-rSG.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 154
                 },
                 "from": {
-                    "file": "D:\\23 jan 2017 Market Buyer\\Stryker_Buyer\\stryker\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\10.0.1\\res\\values-en-rSG\\values.xml",
+                    "file": "C:\\Users\\Parvesh\\.android\\build-cache\\687589606bd32d5b113905e7e3040c550040593c\\output\\res\\values-en-rSG\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,

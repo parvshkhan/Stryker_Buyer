@@ -4,8 +4,8 @@
       <root url="jar://$PROJECT_DIR$/stryker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/stryker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/stryker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/cb3682cb5ab0917965fc6c5f5a195e22f78bd0a7/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

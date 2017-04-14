@@ -7,6 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.BaseAdapter;
 import android.widget.CheckBox;
 import android.widget.CompoundButton;
 import android.widget.TextView;
@@ -16,7 +17,7 @@ import com.app.model.ContactModelNew;
 
 import java.util.List;
 
-public class MyArrayAdapterContact extends ArrayAdapter {
+public class MyArrayAdapterContact extends BaseAdapter {
     Context context;
     int res;
     List<ContactModelNew> contactModelsList;
@@ -24,15 +25,15 @@ public class MyArrayAdapterContact extends ArrayAdapter {
     public static int count = 0;
     private TextView textViewCount;
     ICountCallBack icallBack;
+    TextView tvContact;
 
 
-    public MyArrayAdapterContact(Context context, int res, List<ContactModelNew> contactModelsList) {
-        super(context, res, contactModelsList);
-
+    public MyArrayAdapterContact(Context context, int res, List<ContactModelNew> contactModelsList ,TextView tvContact) {
         this.context = context;
         this.res = res;
         this.contactModelsList = contactModelsList;
-        layoutInflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+
+        this.tvContact = tvContact;
 
     }
 
@@ -41,22 +42,23 @@ public class MyArrayAdapterContact extends ArrayAdapter {
     @Override
     public View getView(final int position, View convertView, final ViewGroup parent) {
 
+        TextView tvname=null;
+        TextView txtInitial=null;
+        CheckBox checkBox=null;
+            layoutInflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+            convertView = layoutInflater.inflate(res, null);
+            textViewCount = (TextView) parent.findViewById(R.id.count);
+            tvname = (TextView) convertView.findViewById(R.id.tvname);
+            txtInitial = (TextView) convertView.findViewById(R.id.txt_initial);
+            checkBox = (CheckBox) convertView.findViewById(R.id.chkboccontact);
 
-        convertView = layoutInflater.inflate(res, null);
 
 
-        textViewCount = (TextView) parent.findViewById(R.id.count);
 
 
-        TextView textView = (TextView) convertView.findViewById(R.id.tvname);
-        TextView txtInitial = (TextView) convertView.findViewById(R.id.txt_initial);
 
-        CheckBox checkBox = (CheckBox) convertView.findViewById(R.id.chkboccontact);
-
-        textView.setText(contactModelsList.get(position).getName());
-
+        tvname.setText(contactModelsList.get(position).getName());
         String value = null;
-
         try {
             value = getInitial(contactModelsList.get(position).getName());
         } catch (Exception e) {
@@ -70,33 +72,22 @@ public class MyArrayAdapterContact extends ArrayAdapter {
         {
             e.printStackTrace();
         }
-
-
-
         if(contactModelsList.get(position).getPhonNum().length()>=10)
         {
             checkBox.setVisibility(View.INVISIBLE);
         }
-
-
         if (contactModelsList.get(position).isExist == 0) {
             checkBox.setVisibility(View.VISIBLE);
-
             ((TextView) convertView.findViewById(R.id.mrktapp)).setVisibility(View.INVISIBLE);
         } else if (contactModelsList.get(position).isExist == 2) {
             checkBox.setVisibility(View.INVISIBLE);
             ((TextView) convertView.findViewById(R.id.mrktapp)).setVisibility(View.INVISIBLE);
         } else {
             checkBox.setVisibility(View.INVISIBLE);
-
             ((TextView) convertView.findViewById(R.id.mrktapp)).setVisibility(View.VISIBLE);
-
         }
-
-
         checkBox.setTag(position);
-        textView.setTag(position);
-
+        tvname.setTag(position);
         checkBox.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
@@ -111,10 +102,8 @@ public class MyArrayAdapterContact extends ArrayAdapter {
                     contactModelsList.get(id).isChecked = false;
                     icallBack.onCount(count);
                 }
-
             }
         });
-
         return convertView;
     }
 
@@ -127,5 +116,32 @@ public class MyArrayAdapterContact extends ArrayAdapter {
             }
 
         return value;
+    }
+
+
+  /*  static class Holder{
+
+        TextView tvname;
+        TextView txtInitial;
+        CheckBox chkAll;
+
+
+    }*/
+
+    @Override
+    public Object getItem(int position) {
+        return contactModelsList.get(position);
+    }
+
+    @Override
+    public int getCount() {
+        // TODO Auto-generated method stub
+        return contactModelsList.size();
+    }
+
+    @Override
+    public long getItemId(int arg0) {
+        // TODO Auto-generated method stub
+        return contactModelsList.indexOf(getItem(arg0));
     }
 }

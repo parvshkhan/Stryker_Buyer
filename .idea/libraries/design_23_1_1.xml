@@ -4,8 +4,8 @@
       <root url="jar://$PROJECT_DIR$/stryker/build/intermediates/exploded-aar/com.android.support/design/23.1.1/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/stryker/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res" />
-      <root url="jar://$PROJECT_DIR$/stryker/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/0783587f46cecf6a073d02e8e57923baae0406b7/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/0783587f46cecf6a073d02e8e57923baae0406b7/output/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
